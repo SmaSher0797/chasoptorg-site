@@ -96,11 +96,12 @@
       </nav>
 
       <div>
-        <div data-tab-panel="orders" class="card">
+        <div data-tab-panel="orders" class="card" id="ordersPanel">
           <h3>Последние заказы</h3>
-          <div class="order-row"><span>№ 10482 · 12.09.2026 · 3 товара</span><span class="status-pill done">Доставлен</span><b>60 090 ₽</b></div>
-          <div class="order-row"><span>№ 10375 · 28.08.2026 · 1 товар</span><span class="status-pill transit">В пути</span><b>18 700 ₽</b></div>
-          <div class="order-row"><span>№ 10201 · 03.08.2026 · 2 товара</span><span class="status-pill done">Доставлен</span><b>21 440 ₽</b></div>
+          <div class="empty-state" style="border:none;padding:30px 20px" id="ordersEmpty">
+            <p style="color:var(--gray);margin:0 0 16px">У вас пока нет заказов</p>
+            <a href="catalog.html" class="btn btn-gold btn-sm">Перейти в каталог</a>
+          </div>
         </div>
 
         <div data-tab-panel="profile" class="card" style="display:none">
