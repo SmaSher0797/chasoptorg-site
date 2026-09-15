@@ -88,7 +88,7 @@ function productIllustration(p, size) {
   size = size || 96;
   if (p.image) {
     var fallbackSrc = 'data:image/svg+xml,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="21" fill="#c9ccd3"/><circle cx="32" cy="32" r="16.5" fill="#f4f3ef"/></svg>');
-    return '<img src="' + p.image + '" alt="' + p.name + '" loading="lazy" style="width:' + size + 'px;height:' + size + 'px;object-fit:contain" onerror="this.onerror=null;this.src=' + JSON.stringify(fallbackSrc) + ';">';
+    return '<img class="prod-photo" src="' + p.image + '" alt="' + p.name + '" loading="lazy" style="width:100%;height:100%;object-fit:contain;padding:10%;box-sizing:border-box" onerror="this.onerror=null;this.src=' + JSON.stringify(fallbackSrc) + ';">';
   }
   var accent = parseColor(p);
   var body = '';
@@ -131,6 +131,29 @@ function productIllustration(p, size) {
   return '<svg viewBox="0 0 64 64" width="' + size + '" height="' + size + '">' + body + '</svg>';
 }
 function miniWatchOrIcon(p) { return productIllustration(p, 78); }
+
+// --- Галерея фото товара (страница товара) ---
+function productThumbsHTML(p) {
+  var imgs = (p.images && p.images.length ? p.images : (p.image ? [p.image] : []));
+  if (imgs.length < 2) return '';
+  return '<div class="gallery-thumbs">' + imgs.map(function (url, i) {
+    return '<button type="button" class="gallery-thumb' + (i === 0 ? ' active' : '') + '" data-thumb="' + i + '"><img src="' + url + '" alt="' + p.name + ' — фото ' + (i + 1) + '" loading="lazy"></button>';
+  }).join('') + '</div>';
+}
+function wireGallery(p) {
+  var imgs = (p.images && p.images.length ? p.images : (p.image ? [p.image] : []));
+  if (imgs.length < 2) return;
+  var main = document.getElementById('galleryMain');
+  var mainImg = main ? main.querySelector('.prod-photo') : null;
+  document.querySelectorAll('.gallery-thumb').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var i = parseInt(btn.getAttribute('data-thumb'), 10);
+      if (mainImg && imgs[i]) mainImg.src = imgs[i];
+      document.querySelectorAll('.gallery-thumb').forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+    });
+  });
+}
 
 // --- Недавно просмотренные ---
 var RECENT_KEY = 'chastorg_recent_v1';

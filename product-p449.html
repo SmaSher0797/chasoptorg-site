@@ -141,9 +141,10 @@
   document.getElementById('productRoot').innerHTML =
     '<div class="product-page">' +
       '<div>' +
-        '<div class="gallery-main">' + (p.badge === 'sale' ? '<span class="tag sale" style="position:absolute;margin:20px">-' + discountPct + '%</span>' : '') +
+        '<div class="gallery-main" id="galleryMain">' + (p.badge === 'sale' ? '<span class="tag sale" style="position:absolute;margin:20px">-' + discountPct + '%</span>' : '') +
           productIllustration(p, 220) +
         '</div>' +
+        productThumbsHTML(p) +
       '</div>' +
       '<div>' +
         '<div class="pp-brand">' + p.brand + '</div>' +
@@ -179,6 +180,8 @@
     '<div class="section-head" style="margin-top:50px"><div><div class="eyebrow">Похожие модели</div><h2>С этим товаром смотрят</h2></div></div>' +
     '<div class="product-grid" id="relatedGrid"></div>' +
     '<div id="recentBlock"></div>';
+
+  wireGallery(p);
 
   var related = PRODUCTS.filter(function (x) { return x.category === p.category && x.id !== p.id; }).slice(0, 4);
   document.getElementById('relatedGrid').innerHTML = related.map(productCardHTML).join('');

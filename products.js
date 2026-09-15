@@ -16,7 +16,13 @@ const PRODUCTS = [
       "Casual",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/2704.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/2704.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/2704.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/3354-scaled.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/3355-scaled.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/3356-scaled.jpg"
+    ]
   },
   {
     "id": "p2",
@@ -34,7 +40,10 @@ const PRODUCTS = [
     "styleTags": [
       "Exclusive"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/6484962518.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/6484962518.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/6484962518.jpg"
+    ]
   },
   {
     "id": "p3",
@@ -53,7 +62,10 @@ const PRODUCTS = [
       "Casual",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/de237732357011eca9a200155d0532c8_20f8fc6f72ce11eda9a600155d0532c8.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/de237732357011eca9a200155d0532c8_20f8fc6f72ce11eda9a600155d0532c8.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/de237732357011eca9a200155d0532c8_20f8fc6f72ce11eda9a600155d0532c8.jpg"
+    ]
   },
   {
     "id": "p4",
@@ -71,7 +83,10 @@ const PRODUCTS = [
     "styleTags": [
       "Exclusive"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/rosafarbenes-lederband-18-mm.jpg.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/rosafarbenes-lederband-18-mm.jpg.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/rosafarbenes-lederband-18-mm.jpg.png"
+    ]
   },
   {
     "id": "p5",
@@ -90,7 +105,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/7315.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/7315.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/7315.jpg"
+    ]
   },
   {
     "id": "p6",
@@ -108,7 +126,10 @@ const PRODUCTS = [
     "styleTags": [
       "Exclusive"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/6484968040.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/6484968040.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/6484968040.jpg"
+    ]
   },
   {
     "id": "p7",
@@ -126,7 +147,8 @@ const PRODUCTS = [
     "styleTags": [
       "Exclusive"
     ],
-    "image": null
+    "image": null,
+    "images": []
   },
   {
     "id": "p8",
@@ -144,7 +166,13 @@ const PRODUCTS = [
     "styleTags": [
       "Exclusive"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/1-10.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/1-10.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/1-10.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/2-11.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/3-11.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/4-10.png"
+    ]
   },
   {
     "id": "p9",
@@ -162,7 +190,13 @@ const PRODUCTS = [
     "styleTags": [
       "Exclusive"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/1-14.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/1-14.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/1-14.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/2-15.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/3-15.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/4-14.png"
+    ]
   },
   {
     "id": "p10",
@@ -181,7 +215,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1WHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1WHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1WHW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1WHW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1WHW203.jpg"
+    ]
   },
   {
     "id": "p11",
@@ -200,7 +239,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWW206.jpg"
+    ]
   },
   {
     "id": "p12",
@@ -219,7 +266,11 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6356M-CZ1WWH202.jpg"
+    ]
   },
   {
     "id": "p13",
@@ -238,7 +289,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRH202.jpg"
+    ]
   },
   {
     "id": "p14",
@@ -257,7 +312,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RLW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RLW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RLW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RLW202.jpg"
+    ]
   },
   {
     "id": "p15",
@@ -276,7 +335,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6306M-GD1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6306M-GD1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6306M-GD1RRH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6306M-GD1RRH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6306M-GD1RRH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6306M-GD1RRH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6306M-GD1RRH205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6306M-GD1RRH206.jpg"
+    ]
   },
   {
     "id": "p16",
@@ -295,7 +362,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6320M-CZ1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6320M-CZ1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6320M-CZ1RRH201.jpg"
+    ]
   },
   {
     "id": "p17",
@@ -314,7 +384,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRW203.jpg"
+    ]
   },
   {
     "id": "p18",
@@ -333,7 +408,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6320M-CZ1RRE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6320M-CZ1RRE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6320M-CZ1RRE201.jpg"
+    ]
   },
   {
     "id": "p19",
@@ -352,7 +430,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1RZZ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1RZZ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1RZZ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1RZZ202.jpg"
+    ]
   },
   {
     "id": "p20",
@@ -371,7 +453,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RVV201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RVV201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RVV201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RVV2010-scaled.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RVV2011.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RVV202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RVV203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RVV204.jpg"
+    ]
   },
   {
     "id": "p21",
@@ -390,7 +480,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0352M-DD1RHH201.jpg"
+    ]
   },
   {
     "id": "p22",
@@ -409,7 +502,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/600x600.webp"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/600x600.webp",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/600x600.webp",
+      "https://chastorg.ru/wp-content/uploads/2023/01/p0411m-dz1rzz-5-xenm-cdtnktt.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/p0411m-dz1rzz-6-xenm-cdtnktt.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/p0411m-dz1rzz-7-xenm-cdtnktt.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RVV6.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RVV7.jpg"
+    ]
   },
   {
     "id": "p23",
@@ -428,7 +529,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RBB1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RBB1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RBB1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RBB2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RBB3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RBB4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RBB5.jpg"
+    ]
   },
   {
     "id": "p24",
@@ -447,7 +555,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1RQW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1RQW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1RQW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1RQW202.jpg"
+    ]
   },
   {
     "id": "p25",
@@ -466,7 +578,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RHH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RHH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0411M-DZ1RHH205.jpg"
+    ]
   },
   {
     "id": "p26",
@@ -484,7 +603,15 @@ const PRODUCTS = [
     "styleTags": [
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0251M-DZ1REW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0251M-DZ1REW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0251M-DZ1REW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0251M-DZ1REW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0251M-DZ1REW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0251M-DZ1REW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0251M-DZ1REW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0251M-DZ1REW206.jpg"
+    ]
   },
   {
     "id": "p27",
@@ -503,7 +630,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6295M-XZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6295M-XZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6295M-XZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6295M-XZ1HHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6295M-XZ1HHH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6295M-XZ1HHH204.jpg"
+    ]
   },
   {
     "id": "p28",
@@ -522,7 +655,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0371M-DZ1RCH1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0371M-DZ1RCH1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0371M-DZ1RCH1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0371M-DZ1RCH2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0371M-DZ1RCH3.jpg"
+    ]
   },
   {
     "id": "p29",
@@ -541,7 +679,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HHH202.jpg"
+    ]
   },
   {
     "id": "p30",
@@ -560,7 +702,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWH205.jpg"
+    ]
   },
   {
     "id": "p31",
@@ -579,7 +728,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1REL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1REL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1REL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1REL202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1REL203.jpg"
+    ]
   },
   {
     "id": "p32",
@@ -598,7 +752,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6349M-CD1RHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6349M-CD1RHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6349M-CD1RHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6349M-CD1RHH202.jpg"
+    ]
   },
   {
     "id": "p33",
@@ -617,7 +775,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6388M-CZ1WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6388M-CZ1WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6388M-CZ1WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6388M-CZ1WWW202.jpg"
+    ]
   },
   {
     "id": "p34",
@@ -636,7 +798,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6223S-GZ1REW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6223S-GZ1REW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6223S-GZ1REW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/k6223s-gz1rew35.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6223S-GZ1REW2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6223S-GZ1REW3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6223S-GZ1REW4.jpg"
+    ]
   },
   {
     "id": "p35",
@@ -655,7 +824,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6362S-CZ1WWW204.jpg"
+    ]
   },
   {
     "id": "p36",
@@ -674,7 +849,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRH202.jpg"
+    ]
   },
   {
     "id": "p37",
@@ -693,7 +872,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHH204.jpg"
+    ]
   },
   {
     "id": "p38",
@@ -712,7 +897,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0470M-ZZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0470M-ZZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0470M-ZZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0470M-ZZ1HHH202.jpg"
+    ]
   },
   {
     "id": "p39",
@@ -731,7 +920,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRK201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRK201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRK201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRK202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRK203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRK204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRK205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRK206.jpg"
+    ]
   },
   {
     "id": "p40",
@@ -750,7 +947,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6379S-CZ2WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6379S-CZ2WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6379S-CZ2WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6379S-CZ2WWW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6379S-CZ2WWW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6379S-CZ2WWW204.jpg"
+    ]
   },
   {
     "id": "p41",
@@ -769,7 +972,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WLW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WLW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WLW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WLW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WLW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WLW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WLW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WLW206.jpg"
+    ]
   },
   {
     "id": "p42",
@@ -788,7 +999,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6381M-CZ1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6381M-CZ1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6381M-CZ1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6381M-CZ1RRW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6381M-CZ1RRW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6381M-CZ1RRW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6381M-CZ1RRW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6381M-CZ1RRW206.jpg"
+    ]
   },
   {
     "id": "p43",
@@ -807,7 +1026,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0403S-DZ1RQW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0403S-DZ1RQW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0403S-DZ1RQW1.jpg"
+    ]
   },
   {
     "id": "p44",
@@ -826,7 +1048,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1RRE1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1RRE1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1RRE1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1RRE2.jpg"
+    ]
   },
   {
     "id": "p45",
@@ -845,7 +1071,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1RRH1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1RRH1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1RRH1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/k6389m-cz1rrh2-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1RRH3.jpg"
+    ]
   },
   {
     "id": "p46",
@@ -864,7 +1095,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZL202.jpg"
+    ]
   },
   {
     "id": "p47",
@@ -883,7 +1118,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6389M-CZ1WWW202.jpg"
+    ]
   },
   {
     "id": "p48",
@@ -902,7 +1141,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRB203.jpg"
+    ]
   },
   {
     "id": "p49",
@@ -921,7 +1165,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6391M-CZ1RRL202.jpg"
+    ]
   },
   {
     "id": "p50",
@@ -940,7 +1188,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HHH202.jpg"
+    ]
   },
   {
     "id": "p51",
@@ -959,7 +1211,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0372M-DZ1WQQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0372M-DZ1WQQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0372M-DZ1WQQ201.jpg"
+    ]
   },
   {
     "id": "p52",
@@ -978,7 +1233,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRH203.jpg"
+    ]
   },
   {
     "id": "p53",
@@ -997,7 +1257,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WHW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WHW202.jpg"
+    ]
   },
   {
     "id": "p54",
@@ -1016,7 +1280,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRW206.jpg"
+    ]
   },
   {
     "id": "p55",
@@ -1035,7 +1307,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRB202.jpg"
+    ]
   },
   {
     "id": "p56",
@@ -1054,7 +1330,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRL202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6413S-CZ1RRL203.jpg"
+    ]
   },
   {
     "id": "p57",
@@ -1073,7 +1354,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRR201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRR201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRR201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRR202.jpg"
+    ]
   },
   {
     "id": "p58",
@@ -1092,7 +1377,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRW202.jpg"
+    ]
   },
   {
     "id": "p59",
@@ -1111,7 +1400,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRZ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRZ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRZ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2RRZ202.jpg"
+    ]
   },
   {
     "id": "p60",
@@ -1130,7 +1423,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0386S-DZ1RLL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0386S-DZ1RLL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0386S-DZ1RLL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0386S-DZ1RLL202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0386S-DZ1RLL203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0386S-DZ1RLL204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0386S-DZ1RLL205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0386S-DZ1RLL206.jpg"
+    ]
   },
   {
     "id": "p61",
@@ -1149,7 +1450,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWB204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWB205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWB206.jpg"
+    ]
   },
   {
     "id": "p62",
@@ -1168,7 +1477,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6420M-CZ2WWH202.jpg"
+    ]
   },
   {
     "id": "p63",
@@ -1187,7 +1500,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRQ202.jpg"
+    ]
   },
   {
     "id": "p64",
@@ -1206,7 +1523,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1RRW202.jpg"
+    ]
   },
   {
     "id": "p65",
@@ -1225,7 +1546,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1WWH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1WWH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1WWH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6426M-CZ1WWH202.jpg"
+    ]
   },
   {
     "id": "p66",
@@ -1244,7 +1569,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-CZ1RRW203.jpg"
+    ]
   },
   {
     "id": "p67",
@@ -1263,7 +1593,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6428M-GZ1RRW206.jpg"
+    ]
   },
   {
     "id": "p68",
@@ -1282,7 +1620,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/k6429m-cd1rrr.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/k6429m-cd1rrr.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/k6429m-cd1rrr.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/k6429m-cd1rrr-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/k6429m-cd1rrr-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/k6429m-cd1rrr-4-gi.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/k6429m-cd1rrr-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/k6429m-cd1rrr-5.jpg"
+    ]
   },
   {
     "id": "p69",
@@ -1301,7 +1647,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HQH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HQH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HQH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HQH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HQH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HQH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HQH205.jpg"
+    ]
   },
   {
     "id": "p70",
@@ -1320,7 +1673,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6429M-CD1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6429M-CD1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6429M-CD1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6429M-CD1RRW202.jpg"
+    ]
   },
   {
     "id": "p71",
@@ -1339,7 +1696,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRH204.jpg"
+    ]
   },
   {
     "id": "p72",
@@ -1358,7 +1721,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRL202.jpg"
+    ]
   },
   {
     "id": "p73",
@@ -1377,7 +1744,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1RRW206.jpg"
+    ]
   },
   {
     "id": "p74",
@@ -1396,7 +1771,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1WWB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1WWB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1WWB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1WWB202.jpg"
+    ]
   },
   {
     "id": "p75",
@@ -1415,7 +1794,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6449M-CZ1WWW202.jpg"
+    ]
   },
   {
     "id": "p76",
@@ -1434,7 +1817,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1REW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1REW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1REW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1REW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1REW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1REW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1REW205.jpg"
+    ]
   },
   {
     "id": "p77",
@@ -1453,7 +1843,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1RRQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1RRQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1RRQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1RRQ202.jpg"
+    ]
   },
   {
     "id": "p78",
@@ -1472,7 +1866,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1WWH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1WWH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1WWH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1WWH202.jpg"
+    ]
   },
   {
     "id": "p79",
@@ -1491,7 +1889,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6459S-XZ1WWW202.jpg"
+    ]
   },
   {
     "id": "p80",
@@ -1510,7 +1912,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0565S-DZ1RCB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0565S-DZ1RCB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0565S-DZ1RCB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0565S-DZ1RCB202.jpg"
+    ]
   },
   {
     "id": "p81",
@@ -1529,7 +1935,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0210M-DZ1HZW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0210M-DZ1HZW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0210M-DZ1HZW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0210M-DZ1HZW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0210M-DZ1HZW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0210M-DZ1HZW204.jpg"
+    ]
   },
   {
     "id": "p82",
@@ -1547,7 +1959,15 @@ const PRODUCTS = [
     "styleTags": [
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0263M-DZ1REE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0263M-DZ1REE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0263M-DZ1REE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0263M-DZ1REE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0263M-DZ1REE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0263M-DZ1REE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0263M-DZ1REE205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0263M-DZ1REE206.jpg"
+    ]
   },
   {
     "id": "p83",
@@ -1566,7 +1986,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0292S-DZ1WQW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0292S-DZ1WQW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0292S-DZ1WQW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0292S-DZ1WQW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0292S-DZ1WQW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0292S-DZ1WQW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0292S-DZ1WQW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0292S-DZ1WQW206.jpg"
+    ]
   },
   {
     "id": "p84",
@@ -1584,7 +2012,15 @@ const PRODUCTS = [
     "styleTags": [
       "Fashion"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0543M-DZ1HCW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0543M-DZ1HCW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0543M-DZ1HCW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0543M-DZ1HCW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0543M-DZ1HCW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0543M-DZ1HCW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0543M-DZ1HCW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0543L.jpg"
+    ]
   },
   {
     "id": "p85",
@@ -1603,7 +2039,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HHH202.jpg"
+    ]
   },
   {
     "id": "p86",
@@ -1622,7 +2062,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HQH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HQH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HQH201.jpg"
+    ]
   },
   {
     "id": "p87",
@@ -1641,7 +2084,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0343M-DZ1REW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0343M-DZ1REW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0343M-DZ1REW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0343M-DZ1REW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0343M-DZ1REW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0343M-DZ1REW204-rotated.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0343M-DZ1REW205.jpg"
+    ]
   },
   {
     "id": "p88",
@@ -1660,7 +2110,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0358S-DZ1RCW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0358S-DZ1RCW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0358S-DZ1RCW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0358S-DZ1RCW2.jpg"
+    ]
   },
   {
     "id": "p89",
@@ -1679,7 +2133,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/panmila-p0358s-dz1whw.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/panmila-p0358s-dz1whw.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/panmila-p0358s-dz1whw.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/panmila-p0358s-dz1whw-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0358S-DZ1WBB2.jpg"
+    ]
   },
   {
     "id": "p90",
@@ -1698,7 +2157,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1RZZ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1RZZ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1RZZ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1RZZ202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1RZZ203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1RZZ204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1RZZ205.jpg"
+    ]
   },
   {
     "id": "p91",
@@ -1717,7 +2183,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1WHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1WHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1WHW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1WHW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1WHW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1WHW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1WHW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0373S-DZ1WHW206.jpg"
+    ]
   },
   {
     "id": "p92",
@@ -1736,7 +2210,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0398S-DZ1RCW20201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0398S-DZ1RCW20201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0398S-DZ1RCW20201.jpg"
+    ]
   },
   {
     "id": "p93",
@@ -1755,7 +2232,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0401M-DD1REW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0401M-DD1REW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0401M-DD1REW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0401M-DD1REW202.jpg"
+    ]
   },
   {
     "id": "p94",
@@ -1774,7 +2255,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1RWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1RWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1RWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1RWW202.jpg"
+    ]
   },
   {
     "id": "p95",
@@ -1793,7 +2278,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WBB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WBB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WBB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WBB202.jpg"
+    ]
   },
   {
     "id": "p96",
@@ -1812,7 +2301,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WHW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0505M-DZ1WHW202.jpg"
+    ]
   },
   {
     "id": "p97",
@@ -1831,7 +2324,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RQQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RQQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RQQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RQQ202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RQQ203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RQQ204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RQQ205.jpg"
+    ]
   },
   {
     "id": "p98",
@@ -1850,7 +2350,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1RKW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1RKW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1RKW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0533M-DZ1RKW202.jpg"
+    ]
   },
   {
     "id": "p99",
@@ -1869,7 +2373,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0241M-DZ1WBB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0241M-DZ1WBB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0241M-DZ1WBB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0241M-DZ1WBB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0241M-DZ1WBB203.jpg"
+    ]
   },
   {
     "id": "p100",
@@ -1888,7 +2397,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1RLW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1RLW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1RLW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1RLW202.jpg"
+    ]
   },
   {
     "id": "p101",
@@ -1907,7 +2420,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRQ202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRQ203.jpg"
+    ]
   },
   {
     "id": "p102",
@@ -1926,7 +2444,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1RZH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1RZH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1RZH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0329M-DZ1RZH202.jpg"
+    ]
   },
   {
     "id": "p103",
@@ -1944,7 +2466,13 @@ const PRODUCTS = [
     "styleTags": [
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0326M-DD1RVV201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0326M-DD1RVV201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0326M-DD1RVV201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0326M-DD1RVV202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0326M-DD1RVV203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0326M-DD1RVV204.jpg"
+    ]
   },
   {
     "id": "p104",
@@ -1963,7 +2491,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0319M-DD1RVV1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0319M-DD1RVV1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0319M-DD1RVV1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0319M-DD1RVV2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0319M-DD1RVV3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0319M-DD1RVV4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0319M-DD1RVV5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0319M-DD1RVV6.jpg"
+    ]
   },
   {
     "id": "p105",
@@ -1982,7 +2518,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0412M-DD1REB1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0412M-DD1REB1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0412M-DD1REB1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0412M-DD1REB2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0412M-DD1REB3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0412M-DD1REB4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0412M-DD1REB5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0412M-DD1REB6.jpg"
+    ]
   },
   {
     "id": "p106",
@@ -2001,7 +2545,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0415M-DZ1RHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0415M-DZ1RHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0415M-DZ1RHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0415M-DZ1RHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0415M-DZ1RHH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0415M-DZ1RHH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0415M-DZ1RHH205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0415M-DZ1RHH206.jpg"
+    ]
   },
   {
     "id": "p107",
@@ -2020,7 +2572,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RLB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RLB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RLB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RLB202.jpg"
+    ]
   },
   {
     "id": "p108",
@@ -2039,7 +2595,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RBB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RBB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RBB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RBB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RBB203.jpg"
+    ]
   },
   {
     "id": "p109",
@@ -2058,7 +2619,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RHB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RHB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RHB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RHB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RHB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0471M-DZ1RHB204.jpg"
+    ]
   },
   {
     "id": "p110",
@@ -2077,7 +2644,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RBB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RBB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RBB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RBB202.jpg"
+    ]
   },
   {
     "id": "p111",
@@ -2096,7 +2667,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RQQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RQQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RQQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RQQ202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RQQ203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RQQ204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RQQ205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RQQ206.jpg"
+    ]
   },
   {
     "id": "p112",
@@ -2115,7 +2694,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RLL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RLL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RLL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RLL202.jpg"
+    ]
   },
   {
     "id": "p113",
@@ -2134,7 +2717,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HBH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HBH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HBH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HBH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HBH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HBH204.jpg"
+    ]
   },
   {
     "id": "p114",
@@ -2153,7 +2742,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RHW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0485M-DZ1RHW202.jpg"
+    ]
   },
   {
     "id": "p115",
@@ -2172,7 +2765,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0488S-DZ1RLL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0488S-DZ1RLL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0488S-DZ1RLL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0488S-DZ1RLL202.jpg"
+    ]
   },
   {
     "id": "p116",
@@ -2191,7 +2788,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0488S-DZ1RHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0488S-DZ1RHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0488S-DZ1RHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0488S-DZ1RHH202.jpg"
+    ]
   },
   {
     "id": "p117",
@@ -2210,7 +2811,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RZR201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RZR201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RZR201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0561S-DZ1RZR202.jpg"
+    ]
   },
   {
     "id": "p118",
@@ -2229,7 +2834,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0558S-DZ1RHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0558S-DZ1RHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0558S-DZ1RHW201.jpg"
+    ]
   },
   {
     "id": "p119",
@@ -2248,7 +2856,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0575S-DZ1GHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0575S-DZ1GHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0575S-DZ1GHW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0575S-DZ1GHW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0575S-DZ1GHW203.jpg"
+    ]
   },
   {
     "id": "p120",
@@ -2267,7 +2880,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1WHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1WHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1WHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1WHH202.jpg"
+    ]
   },
   {
     "id": "p121",
@@ -2286,7 +2903,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RQQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RQQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RQQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RQQ202.jpg"
+    ]
   },
   {
     "id": "p122",
@@ -2305,7 +2926,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RWE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RWE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RWE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RWE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RWE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RWE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RWE205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0509M-DZ1RWE206.jpg"
+    ]
   },
   {
     "id": "p123",
@@ -2324,7 +2953,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1WZH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1WZH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1WZH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1WZH202.jpg"
+    ]
   },
   {
     "id": "p124",
@@ -2343,7 +2976,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0539M-DZ1RZE205.jpg"
+    ]
   },
   {
     "id": "p125",
@@ -2362,7 +3002,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0540S-DZ1RWQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0540S-DZ1RWQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0540S-DZ1RWQ201.jpg"
+    ]
   },
   {
     "id": "p126",
@@ -2381,7 +3024,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1RCC201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1RCC201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1RCC201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0563S-DZ1RCC202.jpg"
+    ]
   },
   {
     "id": "p127",
@@ -2400,7 +3047,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1WHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1WHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1WHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1WHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1WHH203.jpg"
+    ]
   },
   {
     "id": "p128",
@@ -2419,7 +3071,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHN201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHN201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHN201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHN202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHN203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0389L-NZ1HHN204.jpg"
+    ]
   },
   {
     "id": "p129",
@@ -2438,7 +3096,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0390M-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0390M-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390M-DZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390M-DZ1HHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390M-DZ1HHH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390M-DZ1HHH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390M-DZ1HHH205.jpg"
+    ]
   },
   {
     "id": "p130",
@@ -2457,7 +3122,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0390S-DZ1HZW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0390S-DZ1HZW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390S-DZ1HZW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390S-DZ1HZW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390S-DZ1HZW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390S-DZ1HZW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390S-DZ1HZW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0390S-DZ1HZW206.jpg"
+    ]
   },
   {
     "id": "p131",
@@ -2476,7 +3149,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1WHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1WHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1WHW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1WHW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1WHW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1WHW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1WHW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1WHW206.jpg"
+    ]
   },
   {
     "id": "p132",
@@ -2495,7 +3176,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1HHH201.jpg"
+    ]
   },
   {
     "id": "p133",
@@ -2514,7 +3198,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1HCW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1HCW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1HCW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0418M-DZ1HCW202.jpg"
+    ]
   },
   {
     "id": "p134",
@@ -2533,7 +3221,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0421M-DZ1WQH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0421M-DZ1WQH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0421M-DZ1WQH201.jpg"
+    ]
   },
   {
     "id": "p135",
@@ -2552,7 +3243,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WCW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WCW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WCW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WCW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WCW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1WCW204.jpg"
+    ]
   },
   {
     "id": "p136",
@@ -2571,7 +3268,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422M-DZ1HHH201.jpg"
+    ]
   },
   {
     "id": "p137",
@@ -2590,7 +3290,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0422S-DZ1WCW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0422S-DZ1WCW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422S-DZ1WCW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422S-DZ1WCW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0422S-DZ1WCW203.jpg"
+    ]
   },
   {
     "id": "p138",
@@ -2609,7 +3314,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0469M-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0469M-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0469M-DZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0469M-DZ1HHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0469M-DZ1HHH203.jpg"
+    ]
   },
   {
     "id": "p139",
@@ -2628,7 +3338,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HZZ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HZZ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HZZ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HZZ202.jpg"
+    ]
   },
   {
     "id": "p140",
@@ -2647,7 +3361,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HQQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HQQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HQQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HQQ202.jpg"
+    ]
   },
   {
     "id": "p141",
@@ -2666,7 +3384,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0468M-DZ1HHH202.jpg"
+    ]
   },
   {
     "id": "p142",
@@ -2685,7 +3407,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HZZ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HZZ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HZZ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HZZ202.jpg"
+    ]
   },
   {
     "id": "p143",
@@ -2704,7 +3430,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HBZ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HBZ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HBZ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HBZ202.jpg"
+    ]
   },
   {
     "id": "p144",
@@ -2723,7 +3453,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HQZ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HQZ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HQZ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HQZ202.jpg"
+    ]
   },
   {
     "id": "p145",
@@ -2742,7 +3476,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HHH202-scaled.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0480L-ZZ1HHH203.jpg"
+    ]
   },
   {
     "id": "p146",
@@ -2761,7 +3500,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HBH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HBH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HBH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HBH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HBH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HBH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HBH205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HBH206.jpg"
+    ]
   },
   {
     "id": "p147",
@@ -2780,7 +3527,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HCH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HCH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HCH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0486M-DZ1HCH202.jpg"
+    ]
   },
   {
     "id": "p148",
@@ -2799,7 +3550,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HQQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HQQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HQQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HQQ202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0489L-ZZ1HQQ203.jpg"
+    ]
   },
   {
     "id": "p149",
@@ -2818,7 +3574,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HQH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HQH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HQH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HQH202.jpg"
+    ]
   },
   {
     "id": "p150",
@@ -2837,7 +3597,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HBH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HBH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HBH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HBH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0495L-ZZ1HBH203.jpg"
+    ]
   },
   {
     "id": "p151",
@@ -2856,7 +3621,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HHH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HHH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HHH205.jpg"
+    ]
   },
   {
     "id": "p152",
@@ -2875,7 +3647,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HBH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HBH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0500L-ZZ1HBH201.jpg"
+    ]
   },
   {
     "id": "p153",
@@ -2894,7 +3669,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0499M-DZ1HBW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0499M-DZ1HBW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0499M-DZ1HBW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0499M-DZ1HBW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0499M-DZ1HBW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0499M-DZ1HBW204.jpg"
+    ]
   },
   {
     "id": "p154",
@@ -2913,7 +3694,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HHH202.jpg"
+    ]
   },
   {
     "id": "p155",
@@ -2932,7 +3717,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HCH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HCH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HCH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0532M-DZ1HCH202.jpg"
+    ]
   },
   {
     "id": "p156",
@@ -2951,7 +3740,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0548M-DZ1WQW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0548M-DZ1WQW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0548M-DZ1WQW201.jpg"
+    ]
   },
   {
     "id": "p157",
@@ -2970,7 +3762,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0548M-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/P0548M-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/P0548M-DZ1HHH201.jpg"
+    ]
   },
   {
     "id": "p158",
@@ -2989,7 +3784,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-CZ1RRH1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-CZ1RRH1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-CZ1RRH1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-CZ1RRH2.jpg"
+    ]
   },
   {
     "id": "p159",
@@ -3008,7 +3807,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-EZ1RRQ1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-EZ1RRQ1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-EZ1RRQ1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-EZ1RRQ2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-EZ1RRQ3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-EZ1RRQ4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-EZ1RRQ5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6359M-EZ1RRQ6.jpg"
+    ]
   },
   {
     "id": "p160",
@@ -3027,7 +3834,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6405S-GZ1RRE203.jpg"
+    ]
   },
   {
     "id": "p161",
@@ -3046,7 +3858,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRK201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRK201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRK201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRK202.jpg"
+    ]
   },
   {
     "id": "p162",
@@ -3065,7 +3881,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRB204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRB205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6409M-CZ1RRB206.jpg"
+    ]
   },
   {
     "id": "p163",
@@ -3084,7 +3908,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRH202.jpg"
+    ]
   },
   {
     "id": "p164",
@@ -3103,7 +3931,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRL202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRL203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRL204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRL205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6412S-GZ1RRL206.jpg"
+    ]
   },
   {
     "id": "p165",
@@ -3122,7 +3958,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1WWH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1WWH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1WWH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1WWH202.jpg"
+    ]
   },
   {
     "id": "p166",
@@ -3141,7 +3981,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRW205.jpg"
+    ]
   },
   {
     "id": "p167",
@@ -3160,7 +4007,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRL202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRL203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRL204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRL205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6453M-XZ1RRL206.jpg"
+    ]
   },
   {
     "id": "p168",
@@ -3179,7 +4034,15 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRL201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRL201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRL201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRL202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRL203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRL204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRL205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRL206.jpg"
+    ]
   },
   {
     "id": "p169",
@@ -3198,7 +4061,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6458S-XZ1RRH202.jpg"
+    ]
   },
   {
     "id": "p170",
@@ -3217,7 +4084,12 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRE203.jpg"
+    ]
   },
   {
     "id": "p171",
@@ -3236,7 +4108,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRQ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRQ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRQ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6456S-XZ1RRQ202.jpg"
+    ]
   },
   {
     "id": "p172",
@@ -3255,7 +4131,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6485S-XZ1RRC201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6485S-XZ1RRC201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6485S-XZ1RRC201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6485S-XZ1RRC202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6485S-XZ1RRC203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6485S-XZ1RRC204.jpg"
+    ]
   },
   {
     "id": "p173",
@@ -3274,7 +4156,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6299M-XZ1RRE1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6299M-XZ1RRE1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6299M-XZ1RRE1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6299M-XZ1RRE2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6299M-XZ1RRE3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6299M-XZ1RRE4.jpg"
+    ]
   },
   {
     "id": "p174",
@@ -3293,7 +4181,13 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6301M-XZ1RRE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6301M-XZ1RRE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6301M-XZ1RRE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6301M-XZ1RRE202-scaled.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6301M-XZ1RRE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6301M-XZ1RRE204.jpg"
+    ]
   },
   {
     "id": "p175",
@@ -3312,7 +4206,10 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6321M-CZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6321M-CZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6321M-CZ1HHH201.jpg"
+    ]
   },
   {
     "id": "p176",
@@ -3331,7 +4228,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6343M-CZ1RRH1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6343M-CZ1RRH1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6343M-CZ1RRH1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6343M-CZ1RRH2.jpg"
+    ]
   },
   {
     "id": "p177",
@@ -3350,7 +4251,11 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRH202.jpg"
+    ]
   },
   {
     "id": "p178",
@@ -3369,7 +4274,14 @@ const PRODUCTS = [
       "Fashion",
       "Кварцевые"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRV1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRV1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRV1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRV2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRV3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRV4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/K6371M-CD1RRV5.jpg"
+    ]
   },
   {
     "id": "p179",
@@ -3388,7 +4300,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7019L-CZ8TTT201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7019L-CZ8TTT201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7019L-CZ8TTT201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7019L-CZ8TTT202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7019L-CZ8TTT203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7019L-CZ8TTT204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7019L-CZ8TTT205.jpg"
+    ]
   },
   {
     "id": "p180",
@@ -3407,7 +4326,13 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3IIW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3IIW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3IIW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3IIW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3IIW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3IIW204.jpg"
+    ]
   },
   {
     "id": "p181",
@@ -3426,7 +4351,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT534201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT534201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT534201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT534202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT534203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-5.jpg"
+    ]
   },
   {
     "id": "p182",
@@ -3445,7 +4376,13 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7063L-XZ8HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7063L-XZ8HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7063L-XZ8HHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7063L-XZ8HHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7063L-XZ8HHH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7063L-XZ8HHH204.jpg"
+    ]
   },
   {
     "id": "p183",
@@ -3463,7 +4400,11 @@ const PRODUCTS = [
     "styleTags": [
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E2091L-CZ4HHH1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E2091L-CZ4HHH1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2091L-CZ4HHH1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2091L-CZ4HHH2.jpg"
+    ]
   },
   {
     "id": "p184",
@@ -3481,7 +4422,13 @@ const PRODUCTS = [
     "styleTags": [
       "Casual"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3119L-CZ1HHH1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3119L-CZ1HHH1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3119L-CZ1HHH1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3119L-CZ1HHH2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3119L-CZ1HHH3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3119L-CZ1HHH4.jpg"
+    ]
   },
   {
     "id": "p185",
@@ -3500,7 +4447,11 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9005L-BZ8THW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9005L-BZ8THW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9005L-BZ8THW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9005L-BZ8THW2.jpg"
+    ]
   },
   {
     "id": "p186",
@@ -3519,7 +4470,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT549201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT549201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT549201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT549202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT549203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-41.jpg"
+    ]
   },
   {
     "id": "p187",
@@ -3538,7 +4495,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT544201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT544201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT544201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT544202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT544203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-17.jpg"
+    ]
   },
   {
     "id": "p188",
@@ -3557,7 +4520,11 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8WHW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8WHW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8WHW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8WHW202.jpg"
+    ]
   },
   {
     "id": "p189",
@@ -3576,7 +4543,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT352201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT352201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT352201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT352202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT352203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK.jpg"
+    ]
   },
   {
     "id": "p190",
@@ -3595,7 +4568,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7053L-CZ8IIB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7053L-CZ8IIB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7053L-CZ8IIB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7053L-CZ8IIB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7053L-CZ8IIB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7053L-CZ8IIB204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7053L-CZ8IIB205.jpg"
+    ]
   },
   {
     "id": "p191",
@@ -3613,7 +4593,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3149L-DZ1CCH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3149L-DZ1CCH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3149L-DZ1CCH201.jpg"
+    ]
   },
   {
     "id": "p192",
@@ -3631,7 +4614,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3149L-DZ1HHH1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3149L-DZ1HHH1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3149L-DZ1HHH1.jpg"
+    ]
   },
   {
     "id": "p193",
@@ -3649,7 +4635,13 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HCU201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HCU201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HCU201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HCU202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HCU203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HCU204.jpg"
+    ]
   },
   {
     "id": "p194",
@@ -3667,7 +4659,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HHY201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HHY201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3151L-DZ1HHY201.jpg"
+    ]
   },
   {
     "id": "p195",
@@ -3685,7 +4680,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3148L-DZ2HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3148L-DZ2HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3148L-DZ2HHH201.jpg"
+    ]
   },
   {
     "id": "p196",
@@ -3703,7 +4701,11 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3145L-DZ5HZH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3145L-DZ5HZH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3145L-DZ5HZH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3145L-DZ5HZH202.jpg"
+    ]
   },
   {
     "id": "p197",
@@ -3721,7 +4723,14 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5BBZ201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5BBZ201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5BBZ201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5BBZ202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5BBZ203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5BBZ204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5BBZ205.jpg"
+    ]
   },
   {
     "id": "p198",
@@ -3740,7 +4749,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT521201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT521201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT521201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT521202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT521203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-19.jpg"
+    ]
   },
   {
     "id": "p199",
@@ -3758,7 +4773,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5HHF201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5HHF201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3133L-CZ5HHF201.jpg"
+    ]
   },
   {
     "id": "p200",
@@ -3776,7 +4794,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1CCP201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1CCP201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1CCP201.jpg"
+    ]
   },
   {
     "id": "p201",
@@ -3794,7 +4815,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1HBM201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1HBM201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1HBM201.jpg"
+    ]
   },
   {
     "id": "p202",
@@ -3812,7 +4836,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1HHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1HHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3136L-DZ1HHH201.jpg"
+    ]
   },
   {
     "id": "p203",
@@ -3831,7 +4858,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT209201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT209201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT209201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT209202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT209203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-33.jpg"
+    ]
   },
   {
     "id": "p204",
@@ -3849,7 +4882,10 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3118L-DZ4CCH3.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3118L-DZ4CCH3.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3118L-DZ4CCH3.jpg"
+    ]
   },
   {
     "id": "p205",
@@ -3867,7 +4903,12 @@ const PRODUCTS = [
     "styleTags": [
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3112L-DZ4HHE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E3112L-DZ4HHE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3112L-DZ4HHE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3112L-DZ4HHE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E3112L-DZ4HHE203.jpg"
+    ]
   },
   {
     "id": "p206",
@@ -3886,7 +4927,13 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8GTG201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8GTG201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8GTG201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8GTG202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8GTG203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8GTG204.jpg"
+    ]
   },
   {
     "id": "p207",
@@ -3904,7 +4951,15 @@ const PRODUCTS = [
     "styleTags": [
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9070L-BZ2ICW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9070L-BZ2ICW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9070L-BZ2ICW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9070L-BZ2ICW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9070L-BZ2ICW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9070L-BZ2ICW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9070L-BZ2ICW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9070L-BZ2ICW206.jpg"
+    ]
   },
   {
     "id": "p208",
@@ -3923,7 +4978,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT541201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT541201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT541201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT541202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT541203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-37.jpg"
+    ]
   },
   {
     "id": "p209",
@@ -3941,7 +5002,11 @@ const PRODUCTS = [
     "styleTags": [
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9068S-AZ2WWH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9068S-AZ2WWH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9068S-AZ2WWH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9068S-AZ2WWH202.jpg"
+    ]
   },
   {
     "id": "p210",
@@ -3959,7 +5024,11 @@ const PRODUCTS = [
     "styleTags": [
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9068L-AZ2IIW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9068L-AZ2IIW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9068L-AZ2IIW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9068L-AZ2IIW202.jpg"
+    ]
   },
   {
     "id": "p211",
@@ -3977,7 +5046,11 @@ const PRODUCTS = [
     "styleTags": [
       "Casual"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E1160L-DZ4RCW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E1160L-DZ4RCW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E1160L-DZ4RCW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E1160L-DZ4RCW202.jpg"
+    ]
   },
   {
     "id": "p212",
@@ -3995,7 +5068,15 @@ const PRODUCTS = [
     "styleTags": [
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E2085L-CZ1IIW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E2085L-CZ1IIW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2085L-CZ1IIW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2085L-CZ1IIW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2085L-CZ1IIW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2085L-CZ1IIW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2085L-CZ1IIW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2085L-CZ1IIW206.jpg"
+    ]
   },
   {
     "id": "p213",
@@ -4013,7 +5094,10 @@ const PRODUCTS = [
     "styleTags": [
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E2086L-CZ1WWH1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E2086L-CZ1WWH1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2086L-CZ1WWH1.jpg"
+    ]
   },
   {
     "id": "p214",
@@ -4031,7 +5115,14 @@ const PRODUCTS = [
     "styleTags": [
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E2035M-CZ1RIW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E2035M-CZ1RIW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2035M-CZ1RIW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2035M-CZ1RIW2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2035M-CZ1RIW3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2035M-CZ1RIW4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E2035M-CZ1RIW5.jpg"
+    ]
   },
   {
     "id": "p215",
@@ -4050,7 +5141,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT02201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT02201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT02201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT02202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT02203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-31.jpg"
+    ]
   },
   {
     "id": "p216",
@@ -4069,7 +5166,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT03201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT03201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT03201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT03202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT03203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-32.jpg"
+    ]
   },
   {
     "id": "p217",
@@ -4088,7 +5191,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT09201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT09201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT09201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT09202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT09203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-10.jpg"
+    ]
   },
   {
     "id": "p218",
@@ -4107,7 +5216,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT203201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT203201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT203201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT203202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT203203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-11.jpg"
+    ]
   },
   {
     "id": "p219",
@@ -4126,7 +5241,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT205201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT205201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT205201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT205202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT205203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-9.jpg"
+    ]
   },
   {
     "id": "p220",
@@ -4145,7 +5266,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT210201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT210201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT210201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT210202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT210203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-6.jpg"
+    ]
   },
   {
     "id": "p221",
@@ -4164,7 +5291,12 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT211201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT211201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT211201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT211202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-8.jpg"
+    ]
   },
   {
     "id": "p222",
@@ -4183,7 +5315,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT25201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT25201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT25201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT25202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT25203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-7.jpg"
+    ]
   },
   {
     "id": "p223",
@@ -4202,7 +5340,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT26201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT26201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT26201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT26202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT26203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-27.jpg"
+    ]
   },
   {
     "id": "p224",
@@ -4221,7 +5365,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT27201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT27201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT27201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT27202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT27203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-30.jpg"
+    ]
   },
   {
     "id": "p225",
@@ -4240,7 +5390,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT515201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT515201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT515201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT515202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT515203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-34.jpg"
+    ]
   },
   {
     "id": "p226",
@@ -4259,7 +5415,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT28201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT28201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT28201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT28202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT28203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-28.jpg"
+    ]
   },
   {
     "id": "p227",
@@ -4278,7 +5440,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT29201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT29201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT29201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT29202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT29203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-29.jpg"
+    ]
   },
   {
     "id": "p228",
@@ -4297,7 +5465,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT345201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT345201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT345201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT345202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT345203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-40.jpg"
+    ]
   },
   {
     "id": "p229",
@@ -4316,7 +5490,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT347201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT347201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT347201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT347202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT347203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-14.jpg"
+    ]
   },
   {
     "id": "p230",
@@ -4335,7 +5515,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT348201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT348201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT348201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT348202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT348203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-18.jpg"
+    ]
   },
   {
     "id": "p231",
@@ -4354,7 +5540,12 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT351201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT351201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT351201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT351202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-25.jpg"
+    ]
   },
   {
     "id": "p232",
@@ -4373,7 +5564,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT353201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT353201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT353201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT353202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT353203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-4.jpg"
+    ]
   },
   {
     "id": "p233",
@@ -4392,7 +5589,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT354201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT354201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT354201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT354202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT354203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-3.jpg"
+    ]
   },
   {
     "id": "p234",
@@ -4411,7 +5614,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT355201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT355201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT355201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT355202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT355203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-1.jpg"
+    ]
   },
   {
     "id": "p235",
@@ -4430,7 +5639,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT517201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT517201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT517201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT517202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT517203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-22.jpg"
+    ]
   },
   {
     "id": "p236",
@@ -4449,7 +5664,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT518201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT518201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT518201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT518202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT518203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-15.jpg"
+    ]
   },
   {
     "id": "p237",
@@ -4468,7 +5689,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT519201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT519201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT519201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT519202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT519203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-20.jpg"
+    ]
   },
   {
     "id": "p238",
@@ -4487,7 +5714,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT520201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT520201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT520201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT520202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT520203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-16.jpg"
+    ]
   },
   {
     "id": "p239",
@@ -4506,7 +5739,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT523201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT523201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT523201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT523202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT523203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-35.jpg"
+    ]
   },
   {
     "id": "p240",
@@ -4525,7 +5764,12 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT524201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT524201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT524201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT524202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-36.jpg"
+    ]
   },
   {
     "id": "p241",
@@ -4544,7 +5788,12 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT525201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT525201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT525201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT525202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-39.jpg"
+    ]
   },
   {
     "id": "p242",
@@ -4563,7 +5812,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT526201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT526201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT526201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT526202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT526203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-21.jpg"
+    ]
   },
   {
     "id": "p243",
@@ -4582,7 +5837,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT529201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT529201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT529201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT529202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT529203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-13.jpg"
+    ]
   },
   {
     "id": "p244",
@@ -4601,7 +5862,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT531201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT531201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT531201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT531202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT531203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-23.jpg"
+    ]
   },
   {
     "id": "p245",
@@ -4620,7 +5887,12 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT538201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT538201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT538201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT538202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-26.jpg"
+    ]
   },
   {
     "id": "p246",
@@ -4639,7 +5911,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT542201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT542201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT542201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT542202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT542203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-12.jpg"
+    ]
   },
   {
     "id": "p247",
@@ -4658,7 +5936,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT546201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT546201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT546201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT546202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT546203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-38.jpg"
+    ]
   },
   {
     "id": "p248",
@@ -4677,7 +5961,13 @@ const PRODUCTS = [
       "Детские",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT550201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT550201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT550201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT550202.png",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-KIT550203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/IAM-PACK-2.jpg"
+    ]
   },
   {
     "id": "p249",
@@ -4696,7 +5986,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/EFL7001L-SG01201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/EFL7001L-SG01201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFL7001L-SG01201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFL7001L-SG01202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFL7001L-SG01203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFL7001L-SG01204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFL7001L-SG01205.jpg"
+    ]
   },
   {
     "id": "p250",
@@ -4715,7 +6012,11 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7010L-DZ8WHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7010L-DZ8WHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7010L-DZ8WHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7010L-DZ8WHH202.jpg"
+    ]
   },
   {
     "id": "p251",
@@ -4734,7 +6035,11 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9048L-BZ3WCW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9048L-BZ3WCW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9048L-BZ3WCW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9048L-BZ3WCW2.jpg"
+    ]
   },
   {
     "id": "p252",
@@ -4753,7 +6058,11 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8WWW202.jpg"
+    ]
   },
   {
     "id": "p253",
@@ -4772,7 +6081,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICB204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICB205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICB206.jpg"
+    ]
   },
   {
     "id": "p254",
@@ -4791,7 +6108,11 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8YWW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8YWW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8YWW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8YWW2.jpg"
+    ]
   },
   {
     "id": "p255",
@@ -4810,7 +6131,15 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8XWW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8XWW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8XWW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8XWW2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8XWW3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8XWW4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8XWW5-scaled.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7023L-CZ8XWW6-scaled.jpg"
+    ]
   },
   {
     "id": "p256",
@@ -4829,7 +6158,12 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7043L-DZ8RHC201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7043L-DZ8RHC201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7043L-DZ8RHC201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7043L-DZ8RHC202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7043L-DZ8RHC203.jpg"
+    ]
   },
   {
     "id": "p257",
@@ -4848,7 +6182,14 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7089L-DZ8RCW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7089L-DZ8RCW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7089L-DZ8RCW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7089L-DZ8RCW2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7089L-DZ8RCW3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7089L-DZ8RCW4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7089L-DZ8RCW5.jpg"
+    ]
   },
   {
     "id": "p258",
@@ -4867,7 +6208,15 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7051L-DZ9RCW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7051L-DZ9RCW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7051L-DZ9RCW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7051L-DZ9RCW2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7051L-DZ9RCW3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7051L-DZ9RCW4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7051L-DZ9RCW5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7051L-DZ9RCW6.jpg"
+    ]
   },
   {
     "id": "p259",
@@ -4886,7 +6235,15 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9058L-BZ8TCW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9058L-BZ8TCW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9058L-BZ8TCW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9058L-BZ8TCW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9058L-BZ8TCW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9058L-BZ8TCW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9058L-BZ8TCW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9058L-BZ8TCW206.jpg"
+    ]
   },
   {
     "id": "p260",
@@ -4905,7 +6262,15 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7060L-CZ8IIH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7060L-CZ8IIH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7060L-CZ8IIH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7060L-CZ8IIH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7060L-CZ8IIH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7060L-CZ8IIH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7060L-CZ8IIH205-scaled.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7060L-CZ8IIH206-scaled.jpg"
+    ]
   },
   {
     "id": "p261",
@@ -4924,7 +6289,11 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7066L-XZ8TTG201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7066L-XZ8TTG201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7066L-XZ8TTG201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7066L-XZ8TTG202.jpg"
+    ]
   },
   {
     "id": "p262",
@@ -4943,7 +6312,11 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7066L-XZ8IIW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7066L-XZ8IIW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7066L-XZ8IIW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7066L-XZ8IIW202.jpg"
+    ]
   },
   {
     "id": "p263",
@@ -4962,7 +6335,11 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8RIW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8RIW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8RIW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E7068L-XZ8RIW202.jpg"
+    ]
   },
   {
     "id": "p264",
@@ -4981,7 +6358,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG01201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG01201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG01201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG01202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG01203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG01204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG01205.jpg"
+    ]
   },
   {
     "id": "p265",
@@ -5000,7 +6384,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG02201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG02201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG02201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG02202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG02203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG02204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/EFLS8790L-SG02205.jpg"
+    ]
   },
   {
     "id": "p266",
@@ -5019,7 +6410,11 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8WHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8WHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8WHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8WHH202.jpg"
+    ]
   },
   {
     "id": "p267",
@@ -5038,7 +6433,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICW1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICW1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICW1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICW2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICW3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICW4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9006M-BZ8ICW5.jpg"
+    ]
   },
   {
     "id": "p268",
@@ -5057,7 +6459,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8TTW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8TTW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8TTW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8TTW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8TTW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8TTW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8TTW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9003L-AZ8TTW206.jpg"
+    ]
   },
   {
     "id": "p269",
@@ -5076,7 +6486,15 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9040M-BZ8RCW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9040M-BZ8RCW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9040M-BZ8RCW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9040M-BZ8RCW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9040M-BZ8RCW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9040M-BZ8RCW204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9040M-BZ8RCW205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9040M-BZ8RCW206.jpg"
+    ]
   },
   {
     "id": "p270",
@@ -5095,7 +6513,11 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3WWW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3WWW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3WWW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/E9093L-AZ3WWW202.jpg"
+    ]
   },
   {
     "id": "p271",
@@ -5114,7 +6536,11 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6abb0caf11eda9a600155d0532c8_f61b642a834c11eda9a600155d0532c8.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6abb0caf11eda9a600155d0532c8_f61b642a834c11eda9a600155d0532c8.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6abb0caf11eda9a600155d0532c8_f61b642a834c11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6abb0caf11eda9a600155d0532c8_f61b642b834c11eda9a600155d0532c8.jpg"
+    ]
   },
   {
     "id": "p272",
@@ -5133,7 +6559,15 @@ const PRODUCTS = [
       "Механические",
       "Повседневные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6ac90caf11eda9a600155d0532c8_357e8018834d11eda9a600155d0532c8.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6ac90caf11eda9a600155d0532c8_357e8018834d11eda9a600155d0532c8.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6ac90caf11eda9a600155d0532c8_357e8018834d11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6ac90caf11eda9a600155d0532c8_357e8019834d11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6ac90caf11eda9a600155d0532c8_357e801a834d11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6ac90caf11eda9a600155d0532c8_357e801b834d11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6ac90caf11eda9a600155d0532c8_357e8020834d11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/2dbf6ac90caf11eda9a600155d0532c8_357e801c834d11eda9a600155d0532c8.jpg"
+    ]
   },
   {
     "id": "p273",
@@ -5152,7 +6586,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2022/12/d67ce7ea0e7d11eda9a600155d0532c8_78fdca13834e11eda9a600155d0532c8.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2022/12/d67ce7ea0e7d11eda9a600155d0532c8_78fdca13834e11eda9a600155d0532c8.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2022/12/d67ce7ea0e7d11eda9a600155d0532c8_78fdca13834e11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/d67ce7ea0e7d11eda9a600155d0532c8_78fdca14834e11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/d67ce7ea0e7d11eda9a600155d0532c8_78fdca15834e11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/d67ce7ea0e7d11eda9a600155d0532c8_78fdca16834e11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/d67ce7ea0e7d11eda9a600155d0532c8_78fdca17834e11eda9a600155d0532c8.jpg",
+      "https://chastorg.ru/wp-content/uploads/2022/12/d67ce7ea0e7d11eda9a600155d0532c8_78fdca18834e11eda9a600155d0532c8.jpg"
+    ]
   },
   {
     "id": "p274",
@@ -5171,7 +6613,12 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/J0329L-AZ3III201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/J0329L-AZ3III201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0329L-AZ3III201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0329L-AZ3III202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0329L-AZ3III203.jpg"
+    ]
   },
   {
     "id": "p275",
@@ -5190,7 +6637,12 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RHH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RHH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RHH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RHH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RHH203.jpg"
+    ]
   },
   {
     "id": "p276",
@@ -5209,7 +6661,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/J0365L-BZ2RCH201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/J0365L-BZ2RCH201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0365L-BZ2RCH201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0365L-BZ2RCH202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0365L-BZ2RCH203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0365L-BZ2RCH204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0365L-BZ2RCH205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0365L-BZ2RCH206.jpg"
+    ]
   },
   {
     "id": "p277",
@@ -5228,7 +6688,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RCW20201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RCW20201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RCW20201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RCW20202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RCW20203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RCW20204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/01/J0802L-BZ3RCW20205.jpg"
+    ]
   },
   {
     "id": "p278",
@@ -5248,7 +6715,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/06/1-5.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/06/1-5.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/06/1-5.png",
+      "https://chastorg.ru/wp-content/uploads/2023/06/2-10.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/06/3-10.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/06/4-9.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/06/5-6.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/06/6-3.jpg"
+    ]
   },
   {
     "id": "p279",
@@ -5267,7 +6742,11 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10490-5.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10490-5.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10490-5.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10490-5_2.png"
+    ]
   },
   {
     "id": "p280",
@@ -5286,7 +6765,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10497-3_1.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10497-3_1.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10497-3_1.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10497-3_2.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10497-3_3.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10497-3_4.png"
+    ]
   },
   {
     "id": "p281",
@@ -5305,7 +6790,11 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10507-3.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10507-3.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10507-3.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10507-3_2.png"
+    ]
   },
   {
     "id": "p282",
@@ -5324,7 +6813,11 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10507-4.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10507-4.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10507-4.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10507-4_2.png"
+    ]
   },
   {
     "id": "p283",
@@ -5343,7 +6836,11 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10508-4.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10508-4.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10508-4.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10508-4_2.png"
+    ]
   },
   {
     "id": "p284",
@@ -5362,7 +6859,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10510-3_1.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10510-3_1.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10510-3_1.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10510-3_2.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10510-3_3.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10510-3_4.png"
+    ]
   },
   {
     "id": "p285",
@@ -5381,7 +6884,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbae001201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbae001201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae001201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae001202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae001203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae001204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae001205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae001206.jpg"
+    ]
   },
   {
     "id": "p286",
@@ -5400,7 +6911,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbae004201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbae004201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae004201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae004202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae004203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae004204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae004205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae004206.jpg"
+    ]
   },
   {
     "id": "p287",
@@ -5419,7 +6938,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbae005201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbae005201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae005201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae005202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae005203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae005204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae005205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbae005206.jpg"
+    ]
   },
   {
     "id": "p288",
@@ -5438,7 +6965,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf001201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf001201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf001201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf001202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf001203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf001204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf001205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf001206.jpg"
+    ]
   },
   {
     "id": "p289",
@@ -5457,7 +6992,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf003201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf003201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf003201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf003202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf003203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf003204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf003205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf003206.jpg"
+    ]
   },
   {
     "id": "p290",
@@ -5476,7 +7019,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf004201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf004201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf004201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf004202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf004203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf004204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf004205.jpg"
+    ]
   },
   {
     "id": "p291",
@@ -5495,7 +7045,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf005201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf005201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf005201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf005202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf005203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf005204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf005205.jpg"
+    ]
   },
   {
     "id": "p292",
@@ -5514,7 +7071,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf006201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf006201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf006201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf006202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf006203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf006204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf006205.jpg"
+    ]
   },
   {
     "id": "p293",
@@ -5533,7 +7097,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf007201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/zbaf007201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf007201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf007202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf007203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf007204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/09/zbaf007205.jpg"
+    ]
   },
   {
     "id": "p294",
@@ -5552,7 +7123,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/zbag002-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/zbag002-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag002-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag002-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag002-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag002-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag002-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag002-6.jpg"
+    ]
   },
   {
     "id": "p295",
@@ -5571,7 +7150,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/zbag003-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/zbag003-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag003-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag003-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag003-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag003-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag003-5.jpg"
+    ]
   },
   {
     "id": "p296",
@@ -5590,7 +7176,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/zbag004-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/zbag004-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag004-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag004-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag004-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag004-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag004-5.jpg"
+    ]
   },
   {
     "id": "p297",
@@ -5610,7 +7203,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11454awt-a6201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11454awt-a6201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11454awt-a6201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11454awt-a6202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11454awt-a6203.jpg"
+    ]
   },
   {
     "id": "p298",
@@ -5630,7 +7228,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11447bwt-r10201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11447bwt-r10201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11447bwt-r10201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11447bwt-r10202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11447bwt-r10203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11447bwt-r10204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11447bwt-r10205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11447bwt-r10206.jpg"
+    ]
   },
   {
     "id": "p299",
@@ -5650,7 +7256,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11452awt-a3201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11452awt-a3201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11452awt-a3201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11452awt-a3202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11452awt-a3203.jpg"
+    ]
   },
   {
     "id": "p300",
@@ -5670,7 +7281,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11437awt-a3201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11437awt-a3201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11437awt-a3201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11437awt-a3202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11437awt-a3203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11437awt-a3204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11437awt-a3205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11437awt-a3206.jpg"
+    ]
   },
   {
     "id": "p301",
@@ -5690,7 +7309,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-b2201-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-b2201-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-b2201-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-b2202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-b2203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-b2204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-b2206.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-b2207.jpg"
+    ]
   },
   {
     "id": "p302",
@@ -5710,7 +7337,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-a12201-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-a12201-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-a12201-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-a12202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-a12203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-a12y204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-a12y205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11451awt-a12y206.jpg"
+    ]
   },
   {
     "id": "p303",
@@ -5730,7 +7365,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm40103-a4-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm40103-a4-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40103-a4-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40103-a4-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40103-a4-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40103-a4-4-ozon.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40103-a4-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40103-a4-5.jpg"
+    ]
   },
   {
     "id": "p304",
@@ -5750,7 +7393,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm40108a-a3201-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm40108a-a3201-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40108a-a3201-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40108a-a3202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm40108a-a3203.jpg"
+    ]
   },
   {
     "id": "p305",
@@ -5770,7 +7418,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/f11130awt-d201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/f11130awt-d201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11130awt-d201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11130awt-d202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11130awt-d203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11130awt-d20420jpjy.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11130awt-d205.jpg"
+    ]
   },
   {
     "id": "p306",
@@ -5790,7 +7445,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-d2201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-d2201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-d2201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-d2202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-d2203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-d220420ozon.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-d2204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-d2205.jpg"
+    ]
   },
   {
     "id": "p307",
@@ -5810,7 +7473,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-e201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-e201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-e201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-e202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-e203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-e20420ozon.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-e204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f11288awt-e205.jpg"
+    ]
   },
   {
     "id": "p308",
@@ -5830,7 +7501,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11397awt-j1201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/fm11397awt-j1201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11397awt-j1201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11397awt-j1202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11397awt-j1203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11397awt-j1204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11397awt-j1205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/fm11397awt-j1206.jpg"
+    ]
   },
   {
     "id": "p309",
@@ -5850,7 +7529,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11397awt-j10201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11397awt-j10201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11397awt-j10201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11397awt-j10202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11397awt-j10203.jpg"
+    ]
   },
   {
     "id": "p310",
@@ -5870,7 +7554,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/f40100-a3201-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/f40100-a3201-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/f40100-a3201-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f40100-a3202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f40100-a3203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f40100-a320420ozon.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f40100-a3204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/f40100-a3205.jpg"
+    ]
   },
   {
     "id": "p311",
@@ -5890,7 +7582,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-21.VE_.CA-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-21.VE_.CA-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-21.VE_.CA-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-21.VE_.CA-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-21.VE_.CA-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-21.VE_.CA-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-21.VE_.CA-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-21.VE_.CA-6.jpg"
+    ]
   },
   {
     "id": "p312",
@@ -5910,7 +7610,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.NE-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.NE-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.NE-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.NE-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.NE-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.NE-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.NE-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.NE-6.jpg"
+    ]
   },
   {
     "id": "p313",
@@ -5930,7 +7638,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.BL-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.BL-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.BL-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.BL-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.BL-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.BL-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.BL-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-7.BL-6.jpg"
+    ]
   },
   {
     "id": "p314",
@@ -5950,7 +7666,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-11.BI-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-11.BI-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-11.BI-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-11.BI-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-11.BI-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-11.BI-4.jpg"
+    ]
   },
   {
     "id": "p315",
@@ -5970,7 +7692,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.BL-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.BL-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.BL-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.BL-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.BL-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.BL-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.BL-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.BL-6.jpg"
+    ]
   },
   {
     "id": "p316",
@@ -5990,7 +7720,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.CR-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.CR-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.CR-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.CR-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.CR-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.CR-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.CR-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.CR-6.jpg"
+    ]
   },
   {
     "id": "p317",
@@ -6010,7 +7748,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.AR-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.AR-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.AR-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.AR-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.AR-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.AR-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.AR-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-5.AR-6.jpg"
+    ]
   },
   {
     "id": "p318",
@@ -6030,7 +7776,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-12.NE_.BL-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-12.NE_.BL-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-12.NE_.BL-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-12.NE_.BL-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-12.NE_.BL-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-12.NE_.BL-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-12.NE_.BL-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/OOO.001-12.NE_.BL-6.jpg"
+    ]
   },
   {
     "id": "p319",
@@ -6046,7 +7800,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 148 мм, ширина линзы – 55 мм, высота линзы – 40 мм, длина дужки – 148 мм, размер моста на переносице – 9 мм. В комплект входят белый фу",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1001-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1001-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1001-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1001-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p320",
@@ -6062,7 +7821,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 148 мм, ширина линзы – 55 мм, высота линзы – 40 мм, длина дужки – 148 мм, размер моста на переносице – 9 мм. В комплект входят белый фу",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1001-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1001-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1001-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1001-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p321",
@@ -6078,7 +7842,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 148 мм, ширина линзы – 55 мм, высота линзы – 40 мм, длина дужки – 148 мм, размер моста на переносице – 9 мм. В комплект входят белый фу",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1001-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1001-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1001-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1001-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p322",
@@ -6094,7 +7863,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы кошачий глаз с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 133 мм, ширина линзы – 50 мм, высота линзы – 32 мм, длина дужки – 145 мм, размер моста на переносице – 9 мм. В комплект входят белый фут",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1003-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1003-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1003-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1003-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p323",
@@ -6110,7 +7884,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы кошачий глаз с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 133 мм, ширина линзы – 50 мм, высота линзы – 32 мм, длина дужки – 145 мм, размер моста на переносице – 9 мм. В комплект входят белый фут",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1003-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1003-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1003-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1003-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p324",
@@ -6126,7 +7905,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы кошачий глаз с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 133 мм, ширина линзы – 50 мм, высота линзы – 32 мм, длина дужки – 145 мм, размер моста на переносице – 9 мм. В комплект входят белый фут",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1003-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1003-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1003-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1003-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p325",
@@ -6142,7 +7926,13 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook овальной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 140 мм, ширина линзы – 50 мм, высота линзы – 38 мм, длина дужки – 148 мм, размер моста на переносице – 9 мм. В комплект входят белый футляр,",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1004-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1004-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-1_3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p326",
@@ -6158,7 +7948,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook овальной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 140 мм, ширина линзы – 50 мм, высота линзы – 38 мм, длина дужки – 148 мм, размер моста на переносице – 9 мм. В комплект входят белый футляр,",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1004-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1004-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p327",
@@ -6174,7 +7969,15 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook овальной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 140 мм, ширина линзы – 50 мм, высота линзы – 38 мм, длина дужки – 148 мм, размер моста на переносице – 9 мм. В комплект входят белый футляр,",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1004-4_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1004-4_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-4_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-4_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-4_3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-4_4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1004-4_5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.47.46.png"
+    ]
   },
   {
     "id": "p328",
@@ -6190,7 +7993,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook прямоугольнйой формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 148 мм, ширина линзы – 50 мм, высота линзы – 48 мм, длина дужки – 148 мм, размер моста на переносице – 13 мм. В комплект входят белый ",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1005-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1005-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1005-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1005-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p329",
@@ -6206,7 +8014,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 147 мм, ширина линзы – 53 мм, высота линзы – 45 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1006-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1006-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1006-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1006-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p330",
@@ -6222,7 +8035,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 147 мм, ширина линзы – 53 мм, высота линзы – 45 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1006-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1006-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1006-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1006-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p331",
@@ -6238,7 +8056,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 147 мм, ширина линзы – 53 мм, высота линзы – 45 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1006-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1006-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1006-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1006-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p332",
@@ -6254,7 +8077,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 140 мм, ширина линзы – 50 мм, высота линзы – 43 мм, длина дужки – 148 мм, размер моста на переносице – 13 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1007-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1007-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1007-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1007-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p333",
@@ -6270,7 +8098,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 140 мм, ширина линзы – 50 мм, высота линзы – 43 мм, длина дужки – 148 мм, размер моста на переносице – 13 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1007-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1007-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1007-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1007-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p334",
@@ -6286,7 +8119,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие прямоугольной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 50 мм, высота линзы – 30 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1009-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1009-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1009-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1009-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p335",
@@ -6302,7 +8140,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие прямоугольной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 50 мм, высота линзы – 30 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1009-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1009-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1009-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1009-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p336",
@@ -6318,7 +8161,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие прямоугольной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 50 мм, высота линзы – 30 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1009-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1009-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1009-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1009-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p337",
@@ -6334,7 +8182,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы кошачий глаз с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 52 мм, высота линзы – 33 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый фу",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1011-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1011-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1011-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1011-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p338",
@@ -6350,7 +8203,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы кошачий глаз с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 52 мм, высота линзы – 33 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый фу",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1011-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1011-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1011-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1011-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p339",
@@ -6366,7 +8224,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы кошачий глаз с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 52 мм, высота линзы – 33 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый фу",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1011-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1011-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1011-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1011-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p340",
@@ -6382,7 +8245,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 53 мм, высота линзы – 33 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1012-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1012-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1012-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1012-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p341",
@@ -6398,7 +8266,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 53 мм, высота линзы – 33 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1012-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1012-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1012-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1012-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p342",
@@ -6414,7 +8287,15 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 53 мм, высота линзы – 33 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1012-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1012-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1012-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1012-3_2-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1012-3_3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1012-3_4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.47.29.png",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p343",
@@ -6430,7 +8311,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие прямоугольной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 52 мм, высота линзы – 34 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1013-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1013-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p344",
@@ -6446,7 +8332,14 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие прямоугольной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 52 мм, высота линзы – 34 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1013-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1013-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-2_3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.47.13.png",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p345",
@@ -6462,7 +8355,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие прямоугольной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 52 мм, высота линзы – 34 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1013-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1013-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p346",
@@ -6478,7 +8376,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook узкие прямоугольной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 145 мм, ширина линзы – 52 мм, высота линзы – 34 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят б",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1013-4_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1013-4_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-4_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1013-4_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p347",
@@ -6494,7 +8397,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы авиаторы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 150 мм, ширина линзы – 60 мм, высота линзы – 50 мм, длина дужки – 148 мм, размер моста на переносице – 13 мм. В комплект входят белый футляр",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1014-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1014-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1014-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1014-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p348",
@@ -6510,7 +8418,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы авиаторы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 150 мм, ширина линзы – 60 мм, высота линзы – 50 мм, длина дужки – 148 мм, размер моста на переносице – 13 мм. В комплект входят белый футляр",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1014-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1014-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1014-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1014-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p349",
@@ -6526,7 +8439,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook формы авиаторы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 150 мм, ширина линзы – 60 мм, высота линзы – 50 мм, длина дужки – 148 мм, размер моста на переносице – 13 мм. В комплект входят белый футляр",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1014-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1014-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1014-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1014-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p350",
@@ -6542,7 +8460,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 140 мм, ширина линзы – 53 мм, высота линзы – 43 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1015-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1015-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1015-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1015-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p351",
@@ -6558,7 +8481,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 140 мм, ширина линзы – 53 мм, высота линзы – 43 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1015-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1015-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1015-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1015-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p352",
@@ -6574,7 +8502,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 148 мм, ширина линзы – 55 мм, высота линзы – 47 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1016-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1016-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1016-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1016-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p353",
@@ -6590,7 +8523,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 148 мм, ширина линзы – 55 мм, высота линзы – 47 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1016-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1016-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1016-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1016-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p354",
@@ -6606,7 +8544,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 148 мм, ширина линзы – 55 мм, высота линзы – 47 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1016-4_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1016-4_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1016-4_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1016-4_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p355",
@@ -6622,7 +8565,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 143 мм, ширина линзы – 53 мм, высота линзы – 42 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1017-1_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1017-1_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1017-1_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1017-1_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p356",
@@ -6638,7 +8586,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 143 мм, ширина линзы – 53 мм, высота линзы – 42 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1017-2_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1017-2_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1017-2_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1017-2_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p357",
@@ -6654,7 +8607,12 @@ const PRODUCTS = [
     "material": "Металл",
     "description": "Солнцезащитные очки французского бренда Freelook нестандартной формы с поляризационным фильтром. Категория защиты линзы – 3 (8-18% светопропускания). Общая ширина – 143 мм, ширина линзы – 53 мм, высота линзы – 42 мм, длина дужки – 148 мм, размер моста на переносице – 10 мм. В комплект входят белый ф",
     "styleTags": [],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1017-3_1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/07/f1017-3_1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1017-3_1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/f1017-3_2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/07/snimok-ekrana-2024-08-12-v-17.39.24.png"
+    ]
   },
   {
     "id": "p358",
@@ -6673,7 +8631,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20521820GIPR20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20521820GIPR20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20521820GIPR20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20521820GIPR20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20521820GIPR20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20521820GIPR20BLUE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20521820GIPR20BLUE208.jpg"
+    ]
   },
   {
     "id": "p359",
@@ -6692,7 +8657,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20523820GIPR20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20523820GIPR20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20523820GIPR20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20523820GIPR20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20523820GIPR20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20523820GIPR20BLUE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20523820GIPR20BLUE205.jpg"
+    ]
   },
   {
     "id": "p360",
@@ -6711,7 +8683,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20531720GIPR20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20531720GIPR20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531720GIPR20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531720GIPR20BLUE2010.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531720GIPR20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531720GIPR20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531720GIPR20BLUE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531720GIPR20BLUE205.jpg"
+    ]
   },
   {
     "id": "p361",
@@ -6730,7 +8710,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20533820GIPB20YELLOW201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20533820GIPB20YELLOW201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533820GIPB20YELLOW201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533820GIPB20YELLOW202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533820GIPRB20YELLOW203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533820GIPRB20YELLOW204.jpg"
+    ]
   },
   {
     "id": "p362",
@@ -6749,7 +8735,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/10/cf20533920gipy201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/10/cf20533920gipy201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/10/cf20533920gipy201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/10/cf20533920gipy203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/10/cf20533920gipy204.jpg"
+    ]
   },
   {
     "id": "p363",
@@ -6768,7 +8759,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/10/cf20533920gssr20combination20white201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/10/cf20533920gssr20combination20white201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/10/cf20533920gssr20combination20white201.jpg"
+    ]
   },
   {
     "id": "p364",
@@ -6787,7 +8781,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSS20SALOMON20PINK201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSS20SALOMON20PINK201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSS20SALOMON20PINK201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSS20SALOMON20PINK202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSS20SALOMON20PINK203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSS20SALOMON20PINK204.jpg"
+    ]
   },
   {
     "id": "p365",
@@ -6806,7 +8806,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSSB20BEIGE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSSB20BEIGE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSSB20BEIGE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSSB20BEIGE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534620GSSB20BEIGE203.jpg"
+    ]
   },
   {
     "id": "p366",
@@ -6825,7 +8830,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/10/cf20534620gssr20combination201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/10/cf20534620gssr20combination201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/10/cf20534620gssr20combination201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/10/cf20534620gssr20combination203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/10/cf20534620gssr20combination204.jpg"
+    ]
   },
   {
     "id": "p367",
@@ -6844,7 +8854,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSB20WHITE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSB20WHITE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSB20WHITE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSB20WHITE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSB20WHITE203.jpg"
+    ]
   },
   {
     "id": "p368",
@@ -6863,7 +8878,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20BLACK201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20BLACK201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20BLACK201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20BLACK202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20BLACK203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20BLACK204.jpg"
+    ]
   },
   {
     "id": "p369",
@@ -6882,7 +8903,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20WHITE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20WHITE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20WHITE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20WHITE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20WHITE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20WHITE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20WHITE205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSSBB20WHITE206.jpg"
+    ]
   },
   {
     "id": "p370",
@@ -6901,7 +8930,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSS20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSS20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSS20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSS20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSS20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GSS20BLUE204.jpg"
+    ]
   },
   {
     "id": "p371",
@@ -6920,7 +8955,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20RED201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20RED201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20RED201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20RED202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20RED203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20RED204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20RED205.jpg"
+    ]
   },
   {
     "id": "p372",
@@ -6939,7 +8981,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20ORANGE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20ORANGE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20ORANGE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20ORANGE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20ORANGE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20ORANGE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIPB20ORANGE205.jpg"
+    ]
   },
   {
     "id": "p373",
@@ -6958,7 +9007,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIP20PHOENIX201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIP20PHOENIX201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIP20PHOENIX201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIP20PHOENIX202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIP20PHOENIX203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIP20PHOENIX204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20520920GIP20PHOENIX205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/unnamed-file.jpg"
+    ]
   },
   {
     "id": "p374",
@@ -6977,7 +9034,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120giprb201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120giprb201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120giprb201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120giprb202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120giprb203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120giprb204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120giprb205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120giprb206.jpg"
+    ]
   },
   {
     "id": "p375",
@@ -6996,7 +9061,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120gipyb201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120gipyb201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120gipyb201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120gipyb201.1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120gipyb202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120gipyb203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120gipyb204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20523120gipyb205.jpg"
+    ]
   },
   {
     "id": "p376",
@@ -7015,7 +9088,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20525720GSS20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20525720GSS20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20525720GSS20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20525720GSS20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20525720GSS20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20525720GSS20BLUE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20525720GSS20BLUE205.jpg"
+    ]
   },
   {
     "id": "p377",
@@ -7034,7 +9114,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20525720gipy201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20525720gipy201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20525720gipy201.jpg"
+    ]
   },
   {
     "id": "p378",
@@ -7053,7 +9136,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20531520GSS20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20531520GSS20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531520GSS20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531520GSS20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531520GSS20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531520GSS20BLUE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20531520GSS20BLUE205.jpg"
+    ]
   },
   {
     "id": "p379",
@@ -7072,7 +9162,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20533920gipr.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20533920gipr.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20533920gipr.jpg"
+    ]
   },
   {
     "id": "p380",
@@ -7091,7 +9184,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20534020GSSR20COMBINATION201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20534020GSSR20COMBINATION201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534020GSSR20COMBINATION201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534020GSSR20COMBINATION202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534020GSSR20COMBINATION203.jpg"
+    ]
   },
   {
     "id": "p381",
@@ -7110,7 +9208,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20534720GIPB20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20534720GIPB20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534720GIPB20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534720GIPB20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534720GIPB20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20534720GIPB20BLUE204.jpg"
+    ]
   },
   {
     "id": "p382",
@@ -7129,7 +9233,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20534720gipb20yellow201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20534720gipb20yellow201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20534720gipb20yellow201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20534720gipb20yellow202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20534720gipb20yellow203.jpg"
+    ]
   },
   {
     "id": "p383",
@@ -7148,7 +9257,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPB20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPB20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPB20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPB20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPB20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPB20BLUE204.jpg"
+    ]
   },
   {
     "id": "p384",
@@ -7167,7 +9282,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPBR201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPBR201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPBR201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPBR202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPBR203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPBR204.jpg"
+    ]
   },
   {
     "id": "p385",
@@ -7186,7 +9307,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPR201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPR201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPR201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPR202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPR203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPR204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPR205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535020GIPR206.jpg"
+    ]
   },
   {
     "id": "p386",
@@ -7205,7 +9334,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535320GSSB20GREEN201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535320GSSB20GREEN201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535320GSSB20GREEN201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535320GSSB20GREEN202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535320GSSB20GREEN203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535320GSSB20GREEN204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535320GSSB20GREEN205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535320GSSB20GREEN206.jpg"
+    ]
   },
   {
     "id": "p387",
@@ -7224,7 +9361,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20BLACK201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20BLACK201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20BLACK201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20BLACK202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20BLACK203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20BLACK204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20BLACK205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20BLACK206.jpg"
+    ]
   },
   {
     "id": "p388",
@@ -7243,7 +9388,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20WHITE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20WHITE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20WHITE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20WHITE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20WHITE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20WHITE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSS20WHITE205.jpg"
+    ]
   },
   {
     "id": "p389",
@@ -7262,7 +9414,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSBS201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSBS201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSBS201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSBS202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSBS203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSBS203.1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSBS204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535520GSBS205.jpg"
+    ]
   },
   {
     "id": "p390",
@@ -7281,7 +9441,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20535520gssr20combination20black201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/cf20535520gssr20combination20black201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/cf20535520gssr20combination20black201.jpg"
+    ]
   },
   {
     "id": "p391",
@@ -7300,7 +9463,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f11448awt-b201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f11448awt-b201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11448awt-b201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11448awt-b202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11448awt-b203.jpg"
+    ]
   },
   {
     "id": "p392",
@@ -7319,7 +9487,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f11471awt-d6201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f11471awt-d6201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11471awt-d6201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11471awt-d6202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11471awt-d6203.jpg"
+    ]
   },
   {
     "id": "p393",
@@ -7338,7 +9511,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f11476awt-a15201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f11476awt-a15201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11476awt-a15201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11476awt-a15202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11476awt-a15203.jpg"
+    ]
   },
   {
     "id": "p394",
@@ -7357,7 +9535,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f11514awt-a15201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f11514awt-a15201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11514awt-a15201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11514awt-a15202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f11514awt-a15203.jpg"
+    ]
   },
   {
     "id": "p395",
@@ -7376,7 +9559,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-b201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-b201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-b201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-b202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-b203.jpg"
+    ]
   },
   {
     "id": "p396",
@@ -7395,7 +9583,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-e201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-e201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-e201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-e202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/f51336awt-e203.jpg"
+    ]
   },
   {
     "id": "p397",
@@ -7414,7 +9607,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21384awt-a201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21384awt-a201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21384awt-a201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21384awt-a202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21384awt-a203.jpg"
+    ]
   },
   {
     "id": "p398",
@@ -7433,7 +9631,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21450awt-e3201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21450awt-e3201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21450awt-e3201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21450awt-e3202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21450awt-e3203.jpg"
+    ]
   },
   {
     "id": "p399",
@@ -7452,7 +9655,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21472awt-b4201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21472awt-b4201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21472awt-b4201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21472awt-b4202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21472awt-b4203.jpg"
+    ]
   },
   {
     "id": "p400",
@@ -7471,7 +9679,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21477awt-b201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21477awt-b201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21477awt-b201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21477awt-b202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21477awt-b203.jpg"
+    ]
   },
   {
     "id": "p401",
@@ -7490,7 +9703,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21513awt-d6201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21513awt-d6201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21513awt-d6201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21513awt-d6202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21513awt-d6203.jpg"
+    ]
   },
   {
     "id": "p402",
@@ -7509,7 +9727,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-b2201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-b2201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-b2201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-b2202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-b2203.jpg"
+    ]
   },
   {
     "id": "p403",
@@ -7528,7 +9751,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-d201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-d201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-d201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-d202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl21515awt-d203.jpg"
+    ]
   },
   {
     "id": "p404",
@@ -7547,7 +9775,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl40119a-b201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl40119a-b201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl40119a-b201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl40119a-b202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl40119a-b203.jpg"
+    ]
   },
   {
     "id": "p405",
@@ -7566,7 +9799,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl40129a-d6201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl40129a-d6201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl40129a-d6201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl40129a-d6202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl40129a-d6203.jpg"
+    ]
   },
   {
     "id": "p406",
@@ -7585,7 +9823,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-b201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-b201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-b201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-b202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-b203.jpg"
+    ]
   },
   {
     "id": "p407",
@@ -7604,7 +9847,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-d201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-d201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-d201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-d202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fl43003a-d203.jpg"
+    ]
   },
   {
     "id": "p408",
@@ -7624,7 +9872,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a15201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a15201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a15201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a15202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a15203.jpg"
+    ]
   },
   {
     "id": "p409",
@@ -7644,7 +9897,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a6201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a6201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a6201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a6202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11309awt-a6203.jpg"
+    ]
   },
   {
     "id": "p410",
@@ -7664,7 +9922,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-za2201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-za2201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-za2201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-za2202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-za2203.jpg"
+    ]
   },
   {
     "id": "p411",
@@ -7684,7 +9947,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11346d-zk201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11346d-zk201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346d-zk201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346d-zk202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346d-zk203.jpg"
+    ]
   },
   {
     "id": "p412",
@@ -7704,7 +9972,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-zn201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-zn201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-zn201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-zn202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11346dwt-zn203.jpg"
+    ]
   },
   {
     "id": "p413",
@@ -7723,7 +9996,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-b201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-b201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-b201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-b202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-b203.jpg"
+    ]
   },
   {
     "id": "p414",
@@ -7742,7 +10020,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-d6201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-d6201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-d6201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-d6202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11465awt-d6203.jpg"
+    ]
   },
   {
     "id": "p415",
@@ -7761,7 +10044,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-a15201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-a15201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-a15201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-a15202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-a15203.jpg"
+    ]
   },
   {
     "id": "p416",
@@ -7780,7 +10068,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-d2201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-d2201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-d2201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-d2202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm11499awt-d2203.jpg"
+    ]
   },
   {
     "id": "p417",
@@ -7799,7 +10092,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a2201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a2201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a2201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a2202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a2203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a2204.jpeg"
+    ]
   },
   {
     "id": "p418",
@@ -7818,7 +10117,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a3201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a3201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a3201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a3202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a3203.jpg"
+    ]
   },
   {
     "id": "p419",
@@ -7837,7 +10141,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a4201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a4201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a4201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a4202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a4203.jpg"
+    ]
   },
   {
     "id": "p420",
@@ -7856,7 +10165,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a6201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a6201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a6201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a6202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-a6203.jpg"
+    ]
   },
   {
     "id": "p421",
@@ -7875,7 +10189,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-b2201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-b2201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-b2201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-b2202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-b2203.jpg"
+    ]
   },
   {
     "id": "p422",
@@ -7894,7 +10213,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-d6201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-d6201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-d6201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-d6202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm40133a-d6203.jpg"
+    ]
   },
   {
     "id": "p423",
@@ -7913,7 +10237,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm43004a-a4201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/11/fm43004a-a4201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm43004a-a4201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm43004a-a4202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm43004a-a4203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/11/fm43004a-a4201.jpeg"
+    ]
   },
   {
     "id": "p424",
@@ -7933,7 +10263,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-38.AZ-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-38.AZ-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-38.AZ-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-38.AZ-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-38.AZ-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-38.AZ-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-38.AZ-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-38.AZ-6.jpg"
+    ]
   },
   {
     "id": "p425",
@@ -7953,7 +10291,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-18.RO-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-18.RO-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-18.RO-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-18.RO-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-18.RO-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-18.RO-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-18.RO-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-18.RO-6.jpg"
+    ]
   },
   {
     "id": "p426",
@@ -7973,7 +10319,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.RO_.AC_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.RO_.AC_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.RO_.AC_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.RO_.AC_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.RO_.AC_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.RO_.AC_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.RO_.AC_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.RO_.AC_.SS-6.jpg"
+    ]
   },
   {
     "id": "p427",
@@ -7993,7 +10347,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.BL_.AC_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.BL_.AC_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.BL_.AC_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.BL_.AC_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.BL_.AC_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.BL_.AC_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.BL_.AC_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.BL_.AC_.SS-6.jpg"
+    ]
   },
   {
     "id": "p428",
@@ -8013,7 +10375,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.VI_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.VI_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.VI_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.VI_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.VI_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.VI_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-23.VI_.SS-5.jpg"
+    ]
   },
   {
     "id": "p429",
@@ -8033,7 +10402,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.RO-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.RO-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.RO-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.RO-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.RO-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.RO-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.RO-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.RO-6.jpg"
+    ]
   },
   {
     "id": "p430",
@@ -8053,7 +10430,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.GR-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.GR-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.GR-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.GR-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.GR-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.GR-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.GR-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-28.GR-6.jpg"
+    ]
   },
   {
     "id": "p431",
@@ -8073,7 +10458,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.LO_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.LO_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.LO_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.LO_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.LO_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.LO_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.LO_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.LO_.SS-6.jpg"
+    ]
   },
   {
     "id": "p432",
@@ -8093,7 +10486,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.TO_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.TO_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.TO_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.TO_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.TO_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.TO_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.TO_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.TO_.SS-6.jpg"
+    ]
   },
   {
     "id": "p433",
@@ -8113,7 +10514,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.VE_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.VE_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.VE_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.VE_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.VE_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.VE_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.VE_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-19.VE_.SS-6.jpg"
+    ]
   },
   {
     "id": "p434",
@@ -8133,7 +10542,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-21.SA_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-21.SA_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-21.SA_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-21.SA_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-21.SA_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-21.SA_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-21.SA_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-21.SA_.SS-6.jpg"
+    ]
   },
   {
     "id": "p435",
@@ -8153,7 +10570,14 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.BB_.BAND_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.BB_.BAND_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.BB_.BAND_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.BB_.BAND_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.BB_.BAND_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.BB_.BAND_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.BB_.BAND_.SS-5.jpg"
+    ]
   },
   {
     "id": "p436",
@@ -8173,7 +10597,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.PA_.BAND_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.PA_.BAND_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.PA_.BAND_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.PA_.BAND_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.PA_.BAND_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.PA_.BAND_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.PA_.BAND_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.PA_.BAND_.SS-6.jpg"
+    ]
   },
   {
     "id": "p437",
@@ -8193,7 +10625,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.MI_.BAND_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.MI_.BAND_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.MI_.BAND_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.MI_.BAND_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.MI_.BAND_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.MI_.BAND_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.MI_.BAND_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.MI_.BAND_.SS-6.jpg"
+    ]
   },
   {
     "id": "p438",
@@ -8213,7 +10653,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.LA_.BAND_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.LA_.BAND_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.LA_.BAND_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.LA_.BAND_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.LA_.BAND_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.LA_.BAND_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.LA_.BAND_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.LA_.BAND_.SS-6.jpg"
+    ]
   },
   {
     "id": "p439",
@@ -8233,7 +10681,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.NE_.BAND_.SS-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.NE_.BAND_.SS-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.NE_.BAND_.SS-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.NE_.BAND_.SS-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.NE_.BAND_.SS-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.NE_.BAND_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.NE_.BAND_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-25.NE_.BAND_.SS-6.jpg"
+    ]
   },
   {
     "id": "p440",
@@ -8253,7 +10709,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.NE-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.NE-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.NE-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.NE-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.NE-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.NE-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.NE-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.NE-6.jpg"
+    ]
   },
   {
     "id": "p441",
@@ -8273,7 +10737,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.OT-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.OT-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.OT-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.OT-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.OT-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.OT-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.OT-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-32.OT-6.jpg"
+    ]
   },
   {
     "id": "p442",
@@ -8293,7 +10765,15 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-31.GL_.MA_.SS-1.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-31.GL_.MA_.SS-1.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-31.GL_.MA_.SS-1.png",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-31.GL_.MA_.SS-2.png",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-31.GL_.MA_.SS-3.png",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-31.GL_.MA_.SS-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-31.GL_.MA_.SS-5.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/OOO.001-31.GL_.MA_.SS-6.jpg"
+    ]
   },
   {
     "id": "p443",
@@ -8309,7 +10789,8 @@ const PRODUCTS = [
     "material": "Пластик",
     "description": "Дисплей для наручных часов (43,5х27х20 см) из пластикаи полиуретана с часовыми подушечками из полиуретана и двумя дополнительными рамками из плексигласа",
     "styleTags": [],
-    "image": null
+    "image": null,
+    "images": []
   },
   {
     "id": "p444",
@@ -8328,7 +10809,13 @@ const PRODUCTS = [
       "Механические",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535720GSSB20BLACK201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535720GSSB20BLACK201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535720GSSB20BLACK201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535720GSSB20BLACK202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535720GSSB20BLACK203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535720GSSB20BLACK204.jpg"
+    ]
   },
   {
     "id": "p445",
@@ -8347,7 +10834,10 @@ const PRODUCTS = [
       "Механические",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5357-GIPB-BLUE.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5357-GIPB-BLUE.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5357-GIPB-BLUE.jpg"
+    ]
   },
   {
     "id": "p446",
@@ -8366,7 +10856,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-WHITE.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-WHITE.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-WHITE.jpg"
+    ]
   },
   {
     "id": "p447",
@@ -8385,7 +10878,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIP-BLUE-WHITE.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIP-BLUE-WHITE.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIP-BLUE-WHITE.jpg"
+    ]
   },
   {
     "id": "p448",
@@ -8404,7 +10900,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-BLUE.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-BLUE.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-BLUE.jpg"
+    ]
   },
   {
     "id": "p449",
@@ -8423,7 +10922,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-YELLOW.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-YELLOW.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPB-YELLOW.jpg"
+    ]
   },
   {
     "id": "p450",
@@ -8442,7 +10944,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIP-GUN.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIP-GUN.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIP-GUN.jpg"
+    ]
   },
   {
     "id": "p451",
@@ -8461,7 +10966,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPRB.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPRB.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5358-GIPRB.jpg"
+    ]
   },
   {
     "id": "p452",
@@ -8480,7 +10988,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GSSB20BLACK201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GSSB20BLACK201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GSSB20BLACK201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GSSB20BLACK202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GSSB20BLACK203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GSSB20BLACK204.jpg"
+    ]
   },
   {
     "id": "p453",
@@ -8499,7 +11013,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5360-GIPB-DARK-BLUE.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5360-GIPB-DARK-BLUE.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5360-GIPB-DARK-BLUE.jpg"
+    ]
   },
   {
     "id": "p454",
@@ -8518,7 +11035,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20LIGHT20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20LIGHT20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20LIGHT20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20LIGHT20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20LIGHT20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20LIGHT20BLUE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20LIGHT20BLUE205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20LIGHT20BLUE206.jpg"
+    ]
   },
   {
     "id": "p455",
@@ -8537,7 +11062,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20GREEN201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20GREEN201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20GREEN201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20GREEN202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20GREEN203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20GREEN204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20GREEN205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPB20GREEN206.jpg"
+    ]
   },
   {
     "id": "p456",
@@ -8556,7 +11089,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5360-GIP-GUN.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5360-GIP-GUN.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5360-GIP-GUN.jpg"
+    ]
   },
   {
     "id": "p457",
@@ -8575,7 +11111,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPRB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPRB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPRB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPRB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPRB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPRB204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GIPRB2041.jpg"
+    ]
   },
   {
     "id": "p458",
@@ -8594,7 +11137,15 @@ const PRODUCTS = [
       "Механические",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GOPB20RED201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GOPB20RED201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GOPB20RED201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GOPB20RED202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GOPB20RED203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GOPB20RED204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GOPB20RED205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536020GOPB20RED206.jpg"
+    ]
   },
   {
     "id": "p459",
@@ -8613,7 +11164,13 @@ const PRODUCTS = [
       "Механические",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536120GIPRB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20536120GIPRB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536120GIPRB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536120GIPRB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536120GIPRB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20536120GIPRB204.jpg"
+    ]
   },
   {
     "id": "p460",
@@ -8632,7 +11189,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-RED.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-RED.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-RED.jpg"
+    ]
   },
   {
     "id": "p461",
@@ -8651,7 +11211,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIP-GUN.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIP-GUN.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIP-GUN.jpg"
+    ]
   },
   {
     "id": "p462",
@@ -8670,7 +11233,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-YELLOW.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-YELLOW.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-YELLOW.jpg"
+    ]
   },
   {
     "id": "p463",
@@ -8689,7 +11255,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-BLUE.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-BLUE.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPB-BLUE.jpg"
+    ]
   },
   {
     "id": "p464",
@@ -8708,7 +11277,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIP20BLUE20RED201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIP20BLUE20RED201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIP20BLUE20RED201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIP20BLUE20RED202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIP20BLUE20RED203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIP20BLUE20RED204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIP20BLUE20RED205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIP20BLUE20RED206.jpg"
+    ]
   },
   {
     "id": "p465",
@@ -8727,7 +11304,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIPR20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIPR20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIPR20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIPR20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIPR20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIPR20BLUE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533220GIPR20BLUE205.jpg"
+    ]
   },
   {
     "id": "p466",
@@ -8746,7 +11330,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPRB.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPRB.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5332-GIPRB.jpg"
+    ]
   },
   {
     "id": "p467",
@@ -8765,7 +11352,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSS20WHITE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSS20WHITE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSS20WHITE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSS20WHITE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSS20WHITE203.jpg"
+    ]
   },
   {
     "id": "p468",
@@ -8784,7 +11376,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSB204.jpg"
+    ]
   },
   {
     "id": "p469",
@@ -8803,7 +11401,12 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSR20COMBINATION201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSR20COMBINATION201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSR20COMBINATION201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSR20COMBINATION202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GSSR20COMBINATION203.jpg"
+    ]
   },
   {
     "id": "p470",
@@ -8822,7 +11425,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5352-GIPB-BLACK-RED.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5352-GIPB-BLACK-RED.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5352-GIPB-BLACK-RED.jpg"
+    ]
   },
   {
     "id": "p471",
@@ -8841,7 +11447,13 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GIPRB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GIPRB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GIPRB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GIPRB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GIPRB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535220GIPRB204.jpg"
+    ]
   },
   {
     "id": "p472",
@@ -8860,7 +11472,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPBG.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPBG.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPBG.jpg"
+    ]
   },
   {
     "id": "p473",
@@ -8879,7 +11494,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIP-GREY-BLACK.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIP-GREY-BLACK.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIP-GREY-BLACK.jpg"
+    ]
   },
   {
     "id": "p474",
@@ -8898,7 +11516,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIP-GREY-GREEN.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIP-GREY-GREEN.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIP-GREY-GREEN.jpg"
+    ]
   },
   {
     "id": "p475",
@@ -8917,7 +11538,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BLACK-BLUE.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BLACK-BLUE.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BLACK-BLUE.jpg"
+    ]
   },
   {
     "id": "p476",
@@ -8936,7 +11560,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BROWN.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BROWN.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BROWN.jpg"
+    ]
   },
   {
     "id": "p477",
@@ -8955,7 +11582,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BLUE.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BLUE.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5359-GIPB-BLUE.jpg"
+    ]
   },
   {
     "id": "p478",
@@ -8974,7 +11604,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20BLUE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20BLUE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20BLUE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20BLUE205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20BLUE206.jpg"
+    ]
   },
   {
     "id": "p479",
@@ -8993,7 +11631,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20GREEN201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20GREEN201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20GREEN201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20GREEN202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20GREEN203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20GREEN204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GSS20GREEN205.jpg"
+    ]
   },
   {
     "id": "p480",
@@ -9012,7 +11657,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GIPRB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GIPRB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GIPRB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GIPRB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GIPRB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GIPRB204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GIPRB205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20535620GIPRB20im.jpg"
+    ]
   },
   {
     "id": "p481",
@@ -9031,7 +11684,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GSS20WHITE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GSS20WHITE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GSS20WHITE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GSS20WHITE202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GSS20WHITE203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GSS20WHITE204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GSS20WHITE206.jpg"
+    ]
   },
   {
     "id": "p482",
@@ -9050,7 +11710,15 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GIPB20BLACK201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GIPB20BLACK201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GIPB20BLACK201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GIPB20BLACK202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GIPB20BLACK203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GIPB20BLACK204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GIPB20BLACK205.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20522120GIPB20BLACK206.jpg"
+    ]
   },
   {
     "id": "p483",
@@ -9069,7 +11737,10 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5298-GIPRB.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF-5298-GIPRB.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF-5298-GIPRB.jpg"
+    ]
   },
   {
     "id": "p484",
@@ -9088,7 +11759,11 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20530520GIPR20BLUE201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20530520GIPR20BLUE201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20530520GIPR20BLUE201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20530520GIPR20BLUE202.jpg"
+    ]
   },
   {
     "id": "p485",
@@ -9107,7 +11782,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20533120GIPB201.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2026/03/CF20533120GIPB201.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533120GIPB201.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533120GIPB202.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533120GIPB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533120GIPB204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533120GIPB205.jpg"
+    ]
   },
   {
     "id": "p486",
@@ -9126,7 +11808,11 @@ const PRODUCTS = [
       "Кварцевые",
       "Классические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10487-3.png"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10487-3.png",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10487-3.png",
+      "https://chastorg.ru/wp-content/uploads/2023/09/bg.1.10487-3_2.png"
+    ]
   },
   {
     "id": "p487",
@@ -9145,7 +11831,14 @@ const PRODUCTS = [
       "Кварцевые",
       "Спортивные"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2023/12/cf20533520giprb201-1444x2048-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2023/12/cf20533520giprb201-1444x2048-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2023/12/cf20533520giprb201-1444x2048-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2023/12/CF-5335-GIPRB-2-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533520GIPRB203.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533520GIPRB204.jpg",
+      "https://chastorg.ru/wp-content/uploads/2026/03/CF20533520GIPRB205.jpg"
+    ]
   },
   {
     "id": "p488",
@@ -9164,6 +11857,13 @@ const PRODUCTS = [
       "Классические",
       "Механические"
     ],
-    "image": "https://chastorg.ru/wp-content/uploads/2024/03/zbag001-1.jpg"
+    "image": "https://chastorg.ru/wp-content/uploads/2024/03/zbag001-1.jpg",
+    "images": [
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag001-1.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag001-2.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag001-3.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag001-4.jpg",
+      "https://chastorg.ru/wp-content/uploads/2024/03/zbag001-5.jpg"
+    ]
   }
 ];
