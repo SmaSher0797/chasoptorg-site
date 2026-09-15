@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Конструктор часов на заказ — CHASTORG</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<meta name="description" content="Соберите часы под себя: выберите цвет корпуса, циферблата, ремешок и добавьте свой логотип. Живой предпросмотр макета и оформление заявки на CHASTORG.">
+<link rel="canonical" href="https://chastorg.ru/custom.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="CHASTORG">
+<meta property="og:title" content="Конструктор часов на заказ — CHASTORG">
+<meta property="og:description" content="Соберите часы под себя: цвет корпуса, циферблата, ремешок и свой логотип. Живой предпросмотр и заявка на индивидуальный пошив.">
+<meta property="og:url" content="https://chastorg.ru/custom.html">
+<meta property="og:image" content="https://chastorg.ru/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="style.css">
+<style>
+  .cst-wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,420px);gap:40px;align-items:start;}
+  @media (max-width:900px){.cst-wrap{grid-template-columns:1fr;}}
+  .cst-preview{position:sticky;top:20px;background:linear-gradient(180deg,var(--navy-soft),var(--white));border:1px solid var(--border);border-radius:var(--radius);padding:32px;display:flex;flex-direction:column;align-items:center;gap:18px;}
+  @media (max-width:900px){.cst-preview{position:static;}}
+  .cst-preview svg{width:100%;max-width:320px;height:auto;filter:drop-shadow(0 18px 30px rgba(18,33,63,.18));}
+  .cst-price{text-align:center;}
+  .cst-price .amount{font-family:'Playfair Display',serif;font-size:30px;color:var(--navy);font-weight:700;}
+  .cst-price .note{font-size:12.5px;color:var(--gray);margin-top:2px;}
+  .cst-summary{width:100%;font-size:13px;color:var(--gray);border-top:1px solid var(--border);padding-top:14px;}
+  .cst-summary div{display:flex;justify-content:space-between;padding:3px 0;}
+  .cst-summary b{color:var(--ink);font-weight:600;}
+  .cst-block{margin-bottom:28px;}
+  .cst-block h3{font-size:15px;margin:0 0 12px;color:var(--navy);}
+  .swatch-row{display:flex;flex-wrap:wrap;gap:10px;}
+  .swatch{width:40px;height:40px;border-radius:50%;border:2px solid transparent;cursor:pointer;position:relative;box-shadow:0 1px 3px rgba(0,0,0,.2) inset,0 1px 2px rgba(0,0,0,.15);}
+  .swatch.active{border-color:var(--gold);box-shadow:0 0 0 2px var(--white),0 0 0 4px var(--gold);}
+  .swatch[title]{}
+  .opt-row{display:flex;flex-wrap:wrap;gap:8px;}
+  .opt-chip{border:1px solid var(--border);background:var(--white);border-radius:999px;padding:8px 16px;font-size:13px;cursor:pointer;transition:.15s;}
+  .opt-chip.active{background:var(--navy);border-color:var(--navy);color:var(--white);}
+  .cst-field{margin-top:12px;}
+  .cst-field label{display:block;font-size:12.5px;color:var(--gray);margin-bottom:6px;}
+  .cst-field input[type=text],.cst-field textarea{width:100%;border:1px solid var(--border);border-radius:8px;padding:10px 12px;font-size:14px;font-family:inherit;}
+  .cst-field textarea{resize:vertical;min-height:60px;}
+  .logo-upload{display:flex;align-items:center;gap:12px;}
+  .logo-upload label.btn{cursor:pointer;}
+  .logo-upload .logo-preview{width:44px;height:44px;border-radius:50%;border:1px solid var(--border);object-fit:cover;display:none;}
+  .logo-upload .logo-clear{font-size:12.5px;color:var(--gray);cursor:pointer;text-decoration:underline;display:none;}
+  .cst-form{background:var(--navy-soft);border-radius:var(--radius);padding:22px;margin-top:8px;}
+  .cst-form .cst-field input{background:var(--white);}
+  .cst-success{display:none;background:var(--white);border:1px solid var(--border);border-radius:var(--radius);padding:24px;text-align:center;}
+  .cst-success.visible{display:block;}
+  .cst-success h4{color:var(--navy);margin:8px 0 6px;}
+  .steps-hint{font-size:12.5px;color:var(--gray);display:flex;gap:6px;align-items:flex-start;background:var(--navy-soft);border-radius:8px;padding:10px 12px;margin-bottom:24px;}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="container">
+    <div class="topbar-links">
+      <a href="about.html">О компании</a>
+      <a href="about.html#delivery">Доставка и оплата</a>
+      <a href="about.html#faq">FAQ</a>
+    </div>
+    <div class="topbar-contacts">
+      <a href="tel:+74953745977">8 (495) 374-59-77</a>
+      <a href="mailto:info@chastorg.ru">info@chastorg.ru</a>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="container header-row">
+    <a href="index.html" class="logo"><svg viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="18" fill="#12213f"/><circle cx="20" cy="20" r="18" stroke="#c69a4e" stroke-width="1.5"/><circle cx="20" cy="20" r="13" fill="#f8f6f1"/><rect x="18.5" y="1.5" width="3" height="3" rx="1" fill="#12213f"/><path class="logo-hand1" d="M20 20L20 12" stroke="#12213f" stroke-width="2" stroke-linecap="round"/><path class="logo-hand2" d="M20 20L25.5 23" stroke="#c69a4e" stroke-width="2" stroke-linecap="round"/><circle cx="20" cy="20" r="1.6" fill="#12213f"/></svg><span class="logo-text">CHAS<span>TORG</span></span></a>
+    <nav class="main-nav">
+      <div class="nav-item has-mega"><a href="catalog.html">Каталог</a><div class="mega-menu"><div class="mega-menu-cols"><div class="mega-col"><a href="catalog.html?cat=men">Мужские часы</a><a href="catalog.html?cat=women">Женские часы</a><a href="catalog.html?style=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5">Классические часы</a><a href="catalog.html?style=%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5">Спортивные часы</a><a href="catalog.html?style=%D0%9F%D0%BE%D0%B2%D1%81%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B5">Повседневные часы</a><a href="catalog.html?style=Fashion">Fashion часы</a></div><div class="mega-col"><a href="catalog.html?style=Exclusive">Exclusive часы</a><a href="catalog.html?style=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5">Детские часы</a><a href="catalog.html?style=%D0%9A%D0%B2%D0%B0%D1%80%D1%86%D0%B5%D0%B2%D1%8B%D0%B5">Кварцевые часы</a><a href="catalog.html?style=%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5">Механические часы</a><a href="catalog.html?style=Casual">Casual часы</a></div></div></div></div>
+      <a href="catalog.html?cat=men">Мужские</a>
+      <a href="catalog.html?cat=women">Женские</a>
+      <a href="catalog.html?cat=accessories">Аксессуары</a><a href="custom.html">Конструктор</a>
+      <a href="catalog.html?cat=sale">Sale</a>
+      <a href="about.html">Контакты</a>
+    </nav>
+    <form class="search-bar" action="catalog.html" method="get">
+      <svg fill="none" viewBox="0 0 24 24" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input type="text" name="q" placeholder="Поиск">
+    </form>
+    <div class="header-actions">
+      <button class="burger"><svg fill="none" viewBox="0 0 24 24" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+      <a href="account.html"><svg fill="none" viewBox="0 0 24 24" stroke-width="2"><path d="M20 21a8 8 0 10-16 0"/><circle cx="12" cy="7" r="4"/></svg></a>
+      <a href="account.html?tab=wishlist"><svg fill="none" viewBox="0 0 24 24" stroke-width="2"><path d="M20.8 4.6a5.5 5.5 0 00-7.8 0L12 5.6l-1-1a5.5 5.5 0 10-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 000-7.8z"/></svg><span class="badge" data-wish-badge>0</span></a>
+      <a href="cart.html">
+        <svg fill="none" viewBox="0 0 24 24" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.7 13.4a2 2 0 002 1.6h9.7a2 2 0 002-1.6L23 6H6"/></svg>
+        <span class="badge" data-cart-badge>0</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+<section class="section" style="padding-bottom:0">
+  <div class="container">
+    <div class="eyebrow" style="color:#c69a4e">Индивидуальный пошив</div>
+    <h1 style="margin:6px 0 10px">Конструктор часов на заказ</h1>
+    <p style="max-width:640px;color:var(--gray);margin-bottom:0">Соберите свой вариант: цвет корпуса и циферблата, материал ремешка и собственный логотип — предпросмотр обновляется сразу. Готовый макет можно скачать или отправить нам заявку на изготовление.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="steps-hint">
+      <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="#12213f" style="flex-shrink:0;margin-top:1px"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16h.01"/></svg>
+      <span>Это визуальный концепт (не 3D-рендер) — он нужен, чтобы согласовать идею перед изготовлением. Итоговый вид часов уточнит наш мастер после заявки.</span>
+    </div>
+    <div class="cst-wrap">
+
+      <div class="cst-config">
+        <div class="cst-block">
+          <h3>1. Цвет корпуса</h3>
+          <div class="swatch-row" id="caseSwatches" data-target="case"></div>
+        </div>
+        <div class="cst-block">
+          <h3>2. Циферблат</h3>
+          <div class="swatch-row" id="dialSwatches" data-target="dial"></div>
+        </div>
+        <div class="cst-block">
+          <h3>3. Ремешок</h3>
+          <div class="opt-row" id="strapMaterial" style="margin-bottom:12px"></div>
+          <div class="swatch-row" id="strapSwatches" data-target="strap"></div>
+        </div>
+        <div class="cst-block">
+          <h3>4. Стрелки и метки</h3>
+          <div class="opt-row" id="accentSwatches" data-target="accent"></div>
+        </div>
+        <div class="cst-block">
+          <h3>5. Ваш логотип</h3>
+          <div class="cst-field">
+            <label>Текст на циферблате (до 10 символов, необязательно)</label>
+            <input type="text" id="logoText" maxlength="10" placeholder="Например: A&amp;M">
+          </div>
+          <div class="cst-field logo-upload">
+            <label class="btn btn-outline btn-sm">Загрузить логотип
+              <input type="file" id="logoFile" accept="image/*" style="display:none">
+            </label>
+            <img id="logoPreview" class="logo-preview" alt="Логотип">
+            <span id="logoClear" class="logo-clear">Убрать</span>
+          </div>
+        </div>
+        <div class="cst-block">
+          <h3>6. Гравировка на задней крышке</h3>
+          <div class="cst-field">
+            <textarea id="engraveText" maxlength="60" placeholder="Например: «С любовью, 14.02.2026» — необязательно"></textarea>
+          </div>
+        </div>
+      </div>
+
+      <div class="cst-preview">
+        <div id="watchSvgHolder"></div>
+        <div class="cst-price">
+          <div class="amount" id="cstAmount">4 990 ₽</div>
+          <div class="note">Ориентировочная стоимость, окончательная — после согласования</div>
+        </div>
+        <div class="cst-summary" id="cstSummary"></div>
+        <button type="button" class="btn btn-gold btn-block" id="downloadBtn">Скачать макет (PNG)</button>
+        <button type="button" class="btn btn-navy btn-block" id="orderBtn">Оформить заявку на изготовление</button>
+      </div>
+
+    </div>
+
+    <div class="cst-form" id="orderForm" style="display:none;max-width:520px;margin-top:28px">
+      <h3 style="margin-top:0">Заявка на изготовление</h3>
+      <div class="cst-field"><label>Имя</label><input type="text" id="ordName" placeholder="Как к вам обращаться"></div>
+      <div class="cst-field"><label>Телефон или email</label><input type="text" id="ordContact" placeholder="+7 ... или email"></div>
+      <div class="cst-field"><label>Комментарий (необязательно)</label><textarea id="ordComment" placeholder="Пожелания по срокам, размеру и т.д."></textarea></div>
+      <div style="display:flex;gap:10px;margin-top:16px;flex-wrap:wrap">
+        <button type="button" class="btn btn-gold" id="ordSubmit">Отправить заявку</button>
+        <button type="button" class="btn btn-outline" id="ordCancel">Отмена</button>
+      </div>
+      <div id="ordError" style="color:#c0392b;font-size:13px;margin-top:10px;display:none"></div>
+    </div>
+
+    <div class="cst-success" id="orderSuccess" style="max-width:520px;margin-top:28px">
+      <svg width="40" height="40" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="#2e7d4f"><circle cx="12" cy="12" r="9"/><path d="M8 12l3 3 5-6"/></svg>
+      <h4>Заявка №<span id="ordNumber"></span> принята</h4>
+      <p style="color:var(--gray);font-size:13.5px">Мы сохранили ваш макет и свяжемся с вами в ближайшее рабочее время, чтобы уточнить детали изготовления.</p>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <div class="footer-logo"><svg viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="18" fill="#1c3260"/><circle cx="20" cy="20" r="18" stroke="#c69a4e" stroke-width="1.5"/><circle cx="20" cy="20" r="13" fill="#0e1a30"/><path class="logo-hand1" d="M20 20L20 12" stroke="#f8f6f1" stroke-width="2" stroke-linecap="round"/><path class="logo-hand2" d="M20 20L25.5 23" stroke="#c69a4e" stroke-width="2" stroke-linecap="round"/><circle cx="20" cy="20" r="1.6" fill="#f8f6f1"/></svg><span><span class="logo-text">CHAS<span style="color:#c69a4e">TORG</span></span></span></div>
+      <p style="font-size:13.5px;line-height:1.6">Официальный магазин часов. Более 400+ моделей от 12 брендов с гарантией подлинности.</p>
+      <div class="socials">
+        <a href="#"><svg fill="none" viewBox="0 0 24 24" stroke-width="2"><path d="M3 8l9 6 9-6M4 4h16v16H4z"/></svg></a>
+        <a href="#"><svg fill="none" viewBox="0 0 24 24" stroke-width="2"><circle cx="12" cy="12" r="9"/></svg></a>
+        <a href="#"><svg fill="none" viewBox="0 0 24 24" stroke-width="2"><path d="M22 4l-9 16-4-7-7-4z"/></svg></a>
+      </div>
+    </div>
+    <div><h5>Каталог</h5><ul>
+      <li><a href="catalog.html?cat=men">Мужские часы</a></li>
+      <li><a href="catalog.html?cat=women">Женские часы</a></li>
+      <li><a href="catalog.html?cat=accessories">Аксессуары</a></li>
+      <li><a href="catalog.html?cat=sale">Распродажа</a></li>
+      <li><a href="custom.html">Конструктор часов</a></li>
+    </ul></div>
+    <div><h5>Компания</h5><ul>
+      <li><a href="about.html">О нас</a></li>
+      <li><a href="about.html#delivery">Доставка и оплата</a></li>
+      <li><a href="about.html#faq">FAQ</a></li>
+      <li><a href="about.html#contacts">Контакты</a></li>
+    </ul></div>
+    <div><h5>Рассылка</h5><p style="font-size:13px">Узнавайте о новинках и акциях первыми</p>
+      <div class="footer-sub"><input type="email" placeholder="Ваш email"><button class="btn btn-gold btn-sm">ОК</button></div>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <span>© 2026 CHASTORG. Все права защищены.</span>
+    <span>г. Москва, ул. Шоссейная, д. 1, к. 2 · 8 (495) 374-59-77</span>
+  </div>
+</footer>
+<script src="products.js"></script>
+<script src="store.js"></script>
+<script src="script.js"></script>
+<script src="custom-builder.js"></script>
+
+</body>
+</html>

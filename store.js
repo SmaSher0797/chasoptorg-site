@@ -40,8 +40,7 @@ function cartItems() {
   }).filter(Boolean);
 }
 function cartCount() {
-  var cart = getCart();
-  return Object.values(cart).reduce(function (a, b) { return a + b; }, 0);
+  return cartItems().reduce(function (sum, it) { return sum + it.qty; }, 0);
 }
 function cartTotal() {
   return cartItems().reduce(function (sum, it) { return sum + it.product.price * it.qty; }, 0);
@@ -88,7 +87,7 @@ function productIllustration(p, size) {
   size = size || 96;
   if (p.image) {
     var fallbackSrc = 'data:image/svg+xml,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="21" fill="#c9ccd3"/><circle cx="32" cy="32" r="16.5" fill="#f4f3ef"/></svg>');
-    return '<img class="prod-photo" src="' + p.image + '" alt="' + p.name + '" loading="lazy" style="width:100%;height:100%;object-fit:contain;padding:10%;box-sizing:border-box" onerror="this.onerror=null;this.src=' + JSON.stringify(fallbackSrc) + ';">';
+    return '<img class="prod-photo" src="' + p.image + '" alt="' + p.name + '" loading="lazy" style="width:100%;height:100%;object-fit:contain;padding:5%;box-sizing:border-box" onerror="this.onerror=null;this.src=' + JSON.stringify(fallbackSrc) + ';">';
   }
   var accent = parseColor(p);
   var body = '';
@@ -142,17 +141,96 @@ function productThumbsHTML(p) {
 }
 function wireGallery(p) {
   var imgs = (p.images && p.images.length ? p.images : (p.image ? [p.image] : []));
-  if (imgs.length < 2) return;
+  if (!imgs.length) return;
   var main = document.getElementById('galleryMain');
   var mainImg = main ? main.querySelector('.prod-photo') : null;
-  document.querySelectorAll('.gallery-thumb').forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      var i = parseInt(btn.getAttribute('data-thumb'), 10);
-      if (mainImg && imgs[i]) mainImg.src = imgs[i];
-      document.querySelectorAll('.gallery-thumb').forEach(function (b) { b.classList.remove('active'); });
-      btn.classList.add('active');
+  var curIndex = 0;
+
+  if (imgs.length >= 2) {
+    document.querySelectorAll('.gallery-thumb').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var i = parseInt(btn.getAttribute('data-thumb'), 10);
+        curIndex = i;
+        if (mainImg && imgs[i]) mainImg.src = imgs[i];
+        document.querySelectorAll('.gallery-thumb').forEach(function (b) { b.classList.remove('active'); });
+        btn.classList.add('active');
+      });
     });
-  });
+  }
+
+  if (mainImg) {
+    mainImg.style.cursor = 'zoom-in';
+    mainImg.addEventListener('click', function () {
+      openLightbox(imgs, curIndex, p.name, function (newIndex) {
+        curIndex = newIndex;
+        if (mainImg) mainImg.src = imgs[curIndex];
+        var thumbs = document.querySelectorAll('.gallery-thumb');
+        if (thumbs.length) {
+          thumbs.forEach(function (b) { b.classList.remove('active'); });
+          var t = document.querySelector('.gallery-thumb[data-thumb="' + curIndex + '"]');
+          if (t) t.classList.add('active');
+        }
+      });
+    });
+  }
+}
+
+// --- Лайтбокс (увеличение фото по клику) ---
+function ensureLightbox() {
+  var el = document.getElementById('lightboxOverlay');
+  if (el) return el;
+  el = document.createElement('div');
+  el.id = 'lightboxOverlay';
+  el.className = 'lightbox-overlay';
+  el.innerHTML =
+    '<button type="button" class="lightbox-close" aria-label="Закрыть">&times;</button>' +
+    '<button type="button" class="lightbox-nav lightbox-prev" aria-label="Предыдущее фото">&#8249;</button>' +
+    '<img class="lightbox-img" alt="">' +
+    '<button type="button" class="lightbox-nav lightbox-next" aria-label="Следующее фото">&#8250;</button>';
+  document.body.appendChild(el);
+  return el;
+}
+function openLightbox(imgs, startIndex, altBase, onChange) {
+  if (!imgs || !imgs.length) return;
+  var el = ensureLightbox();
+  var idx = startIndex || 0;
+  var imgEl = el.querySelector('.lightbox-img');
+  var closeBtn = el.querySelector('.lightbox-close');
+  var prevBtn = el.querySelector('.lightbox-prev');
+  var nextBtn = el.querySelector('.lightbox-next');
+  var multi = imgs.length > 1;
+  prevBtn.style.display = multi ? '' : 'none';
+  nextBtn.style.display = multi ? '' : 'none';
+
+  function render() {
+    imgEl.src = imgs[idx];
+    imgEl.alt = (altBase || '') + ' — фото ' + (idx + 1);
+    if (typeof onChange === 'function') onChange(idx);
+  }
+  function go(delta) {
+    idx = (idx + delta + imgs.length) % imgs.length;
+    render();
+  }
+  function close() {
+    el.classList.remove('open');
+    document.body.classList.remove('lightbox-open');
+    document.removeEventListener('keydown', onKey);
+  }
+  function onKey(e) {
+    if (e.key === 'Escape') close();
+    else if (e.key === 'ArrowLeft' && multi) go(-1);
+    else if (e.key === 'ArrowRight' && multi) go(1);
+  }
+
+  closeBtn.onclick = close;
+  prevBtn.onclick = function () { go(-1); };
+  nextBtn.onclick = function () { go(1); };
+  el.onclick = function (e) { if (e.target === el) close(); };
+  document.addEventListener('keydown', onKey);
+
+  render();
+  el.classList.add('open');
+  document.body.classList.add('lightbox-open');
 }
 
 // --- Недавно просмотренные ---
