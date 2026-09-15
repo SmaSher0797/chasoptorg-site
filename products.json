@@ -1,0 +1,1741 @@
+[
+  {
+    "id": "m1",
+    "brand": "Bigotti",
+    "model": "BG.1.10487-3",
+    "name": "Bigotti BG.1.10487-3",
+    "category": "men",
+    "price": 8320,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель BG.1.10487-3 от Bigotti — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m2",
+    "brand": "Bigotti",
+    "model": "BG.1.10490-5",
+    "name": "Bigotti BG.1.10490-5",
+    "category": "men",
+    "price": 10640,
+    "oldPrice": null,
+    "stock": 5,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель BG.1.10490-5 от Bigotti — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m3",
+    "brand": "Bigotti",
+    "model": "BG.1.10507-4",
+    "name": "Bigotti BG.1.10507-4",
+    "category": "men",
+    "price": 10580,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель BG.1.10507-4 от Bigotti — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m4",
+    "brand": "Bigotti",
+    "model": "BG.1.10508-4",
+    "name": "Bigotti BG.1.10508-4",
+    "category": "men",
+    "price": 12480,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель BG.1.10508-4 от Bigotti — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m5",
+    "brand": "Bigotti",
+    "model": "BG.1.10510-3",
+    "name": "Bigotti BG.1.10510-3",
+    "category": "men",
+    "price": 10800,
+    "oldPrice": null,
+    "stock": 9,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель BG.1.10510-3 от Bigotti — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m6",
+    "brand": "Bigotti",
+    "model": "BGT0242-5",
+    "name": "Bigotti BGT0242-5",
+    "category": "men",
+    "price": 4195,
+    "oldPrice": 5244,
+    "stock": 7,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель BGT0242-5 от Bigotti — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m7",
+    "brand": "Chronoforce",
+    "model": "CF 5209 GIP Phoenix",
+    "name": "Chronoforce CF 5209 GIP Phoenix",
+    "category": "men",
+    "price": 45000,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь IP-покрытие",
+    "description": "Сталь IP-покрытие, механизм: автоматический. Модель CF 5209 GIP Phoenix от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m8",
+    "brand": "Chronoforce",
+    "model": "CF 5209 GIPB Orange",
+    "name": "Chronoforce CF 5209 GIPB Orange",
+    "category": "men",
+    "price": 45000,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь IP-покрытие",
+    "description": "Сталь IP-покрытие, механизм: автоматический. Модель CF 5209 GIPB Orange от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m9",
+    "brand": "Chronoforce",
+    "model": "CF 5209 GIPB Red",
+    "name": "Chronoforce CF 5209 GIPB Red",
+    "category": "men",
+    "price": 45000,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь IP-покрытие",
+    "description": "Сталь IP-покрытие, механизм: автоматический. Модель CF 5209 GIPB Red от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m10",
+    "brand": "Chronoforce",
+    "model": "CF 5209 GSS Blue",
+    "name": "Chronoforce CF 5209 GSS Blue",
+    "category": "men",
+    "price": 45000,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5209 GSS Blue от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m11",
+    "brand": "Chronoforce",
+    "model": "CF 5209 GSSB White",
+    "name": "Chronoforce CF 5209 GSSB White",
+    "category": "men",
+    "price": 39000,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5209 GSSB White от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m12",
+    "brand": "Chronoforce",
+    "model": "CF 5209 GSSBB Black",
+    "name": "Chronoforce CF 5209 GSSBB Black",
+    "category": "men",
+    "price": 45000,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5209 GSSBB Black от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m13",
+    "brand": "Chronoforce",
+    "model": "CF 5209 GSSBB White",
+    "name": "Chronoforce CF 5209 GSSBB White",
+    "category": "men",
+    "price": 45000,
+    "oldPrice": null,
+    "stock": 4,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5209 GSSBB White от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m14",
+    "brand": "Chronoforce",
+    "model": "CF 5218 GIPR Blue",
+    "name": "Chronoforce CF 5218 GIPR Blue",
+    "category": "men",
+    "price": 20130,
+    "oldPrice": null,
+    "stock": 5,
+    "badge": null,
+    "mechanism": "Кварцевый хронограф",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый хронограф. Модель CF 5218 GIPR Blue от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Спортивные",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m15",
+    "brand": "Chronoforce",
+    "model": "CF 5221 GIP Bronze",
+    "name": "Chronoforce CF 5221 GIP Bronze",
+    "category": "men",
+    "price": 32000,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь, бронзовое покрытие",
+    "description": "Сталь, бронзовое покрытие, механизм: автоматический. Модель CF 5221 GIP Bronze от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m16",
+    "brand": "Chronoforce",
+    "model": "CF 5221 GIPB Black",
+    "name": "Chronoforce CF 5221 GIPB Black",
+    "category": "men",
+    "price": 32000,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": "new",
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5221 GIPB Black от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m17",
+    "brand": "Chronoforce",
+    "model": "CF 5221 GIPY",
+    "name": "Chronoforce CF 5221 GIPY",
+    "category": "men",
+    "price": 32000,
+    "oldPrice": null,
+    "stock": 4,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5221 GIPY от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m18",
+    "brand": "Chronoforce",
+    "model": "CF 5221 GSS White",
+    "name": "Chronoforce CF 5221 GSS White",
+    "category": "men",
+    "price": 29500,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": "new",
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5221 GSS White от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m19",
+    "brand": "Chronoforce",
+    "model": "CF 5231 GIPRB",
+    "name": "Chronoforce CF 5231 GIPRB",
+    "category": "men",
+    "price": 45000,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5231 GIPRB от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m20",
+    "brand": "Chronoforce",
+    "model": "CF 5231 GIPYB",
+    "name": "Chronoforce CF 5231 GIPYB",
+    "category": "men",
+    "price": 45000,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": "Автоматический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: автоматический. Модель CF 5231 GIPYB от Chronoforce — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m21",
+    "brand": "EYKI",
+    "model": "E1160L-DZ4RCW",
+    "name": "EYKI E1160L-DZ4RCW",
+    "category": "men",
+    "price": 2453,
+    "oldPrice": 6132,
+    "stock": 6,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E1160L-DZ4RCW от EYKI — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m22",
+    "brand": "EYKI",
+    "model": "E3112L-DZ4HHE",
+    "name": "EYKI E3112L-DZ4HHE",
+    "category": "men",
+    "price": 1906,
+    "oldPrice": 4764,
+    "stock": 8,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E3112L-DZ4HHE от EYKI — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m23",
+    "brand": "EYKI",
+    "model": "E3118L-DZ4CCH",
+    "name": "EYKI E3118L-DZ4CCH",
+    "category": "men",
+    "price": 2208,
+    "oldPrice": 5520,
+    "stock": 5,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E3118L-DZ4CCH от EYKI — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "m24",
+    "brand": "EYKI",
+    "model": "E3136L-DZ1CCP",
+    "name": "EYKI E3136L-DZ1CCP",
+    "category": "men",
+    "price": 1714,
+    "oldPrice": 4284,
+    "stock": 7,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E3136L-DZ1CCP от EYKI — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w1",
+    "brand": "Bigotti",
+    "model": "BG.1.10497-3",
+    "name": "Bigotti BG.1.10497-3",
+    "category": "women",
+    "price": 9420,
+    "oldPrice": null,
+    "stock": 4,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель BG.1.10497-3 от Bigotti — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w2",
+    "brand": "Bigotti",
+    "model": "BGT0201-1",
+    "name": "Bigotti BGT0201-1",
+    "category": "women",
+    "price": 5800,
+    "oldPrice": 7250,
+    "stock": 6,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель BGT0201-1 от Bigotti — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w3",
+    "brand": "EYKI",
+    "model": "E2035M-CZ1RIW",
+    "name": "EYKI E2035M-CZ1RIW",
+    "category": "women",
+    "price": 1795,
+    "oldPrice": 4488,
+    "stock": 9,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E2035M-CZ1RIW от EYKI — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w4",
+    "brand": "EYKI",
+    "model": "E2091L-CZ4HHH",
+    "name": "EYKI E2091L-CZ4HHH",
+    "category": "women",
+    "price": 2160,
+    "oldPrice": 5400,
+    "stock": 7,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E2091L-CZ4HHH от EYKI — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w5",
+    "brand": "EYKI",
+    "model": "E9068S-AZ2WWH",
+    "name": "EYKI E9068S-AZ2WWH",
+    "category": "women",
+    "price": 2813,
+    "oldPrice": 7032,
+    "stock": 5,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E9068S-AZ2WWH от EYKI — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w6",
+    "brand": "EYKI",
+    "model": "E2086L-CZ1WWH",
+    "name": "EYKI E2086L-CZ1WWH",
+    "category": "women",
+    "price": 1354,
+    "oldPrice": 3384,
+    "stock": 8,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E2086L-CZ1WWH от EYKI — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w7",
+    "brand": "EYKI",
+    "model": "E3133L-CZ5BBZ",
+    "name": "EYKI E3133L-CZ5BBZ",
+    "category": "women",
+    "price": 3221,
+    "oldPrice": 8052,
+    "stock": 4,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E3133L-CZ5BBZ от EYKI — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w8",
+    "brand": "EYKI",
+    "model": "E3133L-CZ5HHF",
+    "name": "EYKI E3133L-CZ5HHF",
+    "category": "women",
+    "price": 3221,
+    "oldPrice": 8052,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель E3133L-CZ5HHF от EYKI — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Повседневные",
+      "Casual"
+    ]
+  },
+  {
+    "id": "w9",
+    "brand": "FERRO",
+    "model": "F51336AWT-B",
+    "name": "FERRO F51336AWT-B",
+    "category": "women",
+    "price": 8850,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь, кристаллы",
+    "description": "Сталь, кристаллы, механизм: кварцевый. Модель F51336AWT-B от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w10",
+    "brand": "FERRO",
+    "model": "F51336AWT-E",
+    "name": "FERRO F51336AWT-E",
+    "category": "women",
+    "price": 9220,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь, кристаллы",
+    "description": "Сталь, кристаллы, механизм: кварцевый. Модель F51336AWT-E от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w11",
+    "brand": "FERRO",
+    "model": "FL21384AWT-A",
+    "name": "FERRO FL21384AWT-A",
+    "category": "women",
+    "price": 8600,
+    "oldPrice": null,
+    "stock": 4,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL21384AWT-A от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w12",
+    "brand": "FERRO",
+    "model": "FL21450AWT-E3",
+    "name": "FERRO FL21450AWT-E3",
+    "category": "women",
+    "price": 9600,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": "new",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL21450AWT-E3 от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w13",
+    "brand": "FERRO",
+    "model": "FL21472AWT-B4",
+    "name": "FERRO FL21472AWT-B4",
+    "category": "women",
+    "price": 9750,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL21472AWT-B4 от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w14",
+    "brand": "FERRO",
+    "model": "FL21477AWT-B",
+    "name": "FERRO FL21477AWT-B",
+    "category": "women",
+    "price": 9350,
+    "oldPrice": null,
+    "stock": 5,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL21477AWT-B от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w15",
+    "brand": "FERRO",
+    "model": "FL21513AWT-D6",
+    "name": "FERRO FL21513AWT-D6",
+    "category": "women",
+    "price": 11180,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь, позолота",
+    "description": "Сталь, позолота, механизм: кварцевый. Модель FL21513AWT-D6 от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w16",
+    "brand": "FERRO",
+    "model": "FL21515AWT-B2",
+    "name": "FERRO FL21515AWT-B2",
+    "category": "women",
+    "price": 9800,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL21515AWT-B2 от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w17",
+    "brand": "FERRO",
+    "model": "FL21515AWT-D",
+    "name": "FERRO FL21515AWT-D",
+    "category": "women",
+    "price": 9920,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL21515AWT-D от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w18",
+    "brand": "FERRO",
+    "model": "FL40119A-B",
+    "name": "FERRO FL40119A-B",
+    "category": "women",
+    "price": 8960,
+    "oldPrice": null,
+    "stock": 4,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL40119A-B от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w19",
+    "brand": "FERRO",
+    "model": "FL40129A-D6",
+    "name": "FERRO FL40129A-D6",
+    "category": "women",
+    "price": 8960,
+    "oldPrice": null,
+    "stock": 4,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL40129A-D6 от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w20",
+    "brand": "FERRO",
+    "model": "FL43003A-B",
+    "name": "FERRO FL43003A-B",
+    "category": "women",
+    "price": 10900,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL43003A-B от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w21",
+    "brand": "FERRO",
+    "model": "FL43003A-D",
+    "name": "FERRO FL43003A-D",
+    "category": "women",
+    "price": 10900,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель FL43003A-D от FERRO — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "w22",
+    "brand": "I AM",
+    "model": "IAM-KIT02",
+    "name": "I AM IAM-KIT02",
+    "category": "women",
+    "price": 2155,
+    "oldPrice": 4310,
+    "stock": 10,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Полимер (детский/юниор)",
+    "description": "Полимер (детский/юниор), механизм: кварцевый. Модель IAM-KIT02 от I AM — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w23",
+    "brand": "I AM",
+    "model": "IAM-KIT03",
+    "name": "I AM IAM-KIT03",
+    "category": "women",
+    "price": 2155,
+    "oldPrice": 4310,
+    "stock": 10,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Полимер (детский/юниор)",
+    "description": "Полимер (детский/юниор), механизм: кварцевый. Модель IAM-KIT03 от I AM — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a1",
+    "brand": "Freelook",
+    "model": "F1001-1",
+    "name": "Freelook F1001-1",
+    "category": "accessories",
+    "price": 10850,
+    "oldPrice": null,
+    "stock": 6,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1001-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a2",
+    "brand": "Freelook",
+    "model": "F1003-1",
+    "name": "Freelook F1003-1",
+    "category": "accessories",
+    "price": 11300,
+    "oldPrice": null,
+    "stock": 6,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1003-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a3",
+    "brand": "Freelook",
+    "model": "F1004-1",
+    "name": "Freelook F1004-1",
+    "category": "accessories",
+    "price": 8530,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1004-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a4",
+    "brand": "Freelook",
+    "model": "F1005-1",
+    "name": "Freelook F1005-1",
+    "category": "accessories",
+    "price": 14750,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": "new",
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1005-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a5",
+    "brand": "Freelook",
+    "model": "F1006-1",
+    "name": "Freelook F1006-1",
+    "category": "accessories",
+    "price": 12880,
+    "oldPrice": null,
+    "stock": 6,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1006-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a6",
+    "brand": "Freelook",
+    "model": "F1009-1",
+    "name": "Freelook F1009-1",
+    "category": "accessories",
+    "price": 10180,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1009-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a7",
+    "brand": "Freelook",
+    "model": "F1011-1",
+    "name": "Freelook F1011-1",
+    "category": "accessories",
+    "price": 14070,
+    "oldPrice": null,
+    "stock": 7,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1011-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a8",
+    "brand": "Freelook",
+    "model": "F1012-1",
+    "name": "Freelook F1012-1",
+    "category": "accessories",
+    "price": 11010,
+    "oldPrice": null,
+    "stock": 4,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1012-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a9",
+    "brand": "Freelook",
+    "model": "F1013-1",
+    "name": "Freelook F1013-1",
+    "category": "accessories",
+    "price": 8530,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Freelook, модель F1013-1. Поляризационные линзы, ультрафиолетовая защита UV400, оправа премиального качества.",
+    "styleTags": [
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "i1",
+    "brand": "Out of Order",
+    "model": "OOO.DISPLAY.02",
+    "name": "Out of Order OOO.DISPLAY.02",
+    "category": "interior",
+    "price": 7500,
+    "oldPrice": null,
+    "stock": 3,
+    "badge": "new",
+    "mechanism": null,
+    "material": "Настольный дисплей-часы, металл",
+    "description": "Настольные часы-дисплей Out of Order OOO.DISPLAY.02. Минималистичный дизайн, металлический корпус — подойдут для дома и офиса.",
+    "styleTags": [
+      "Классические"
+    ]
+  },
+  {
+    "id": "m25",
+    "brand": "Zorbello",
+    "model": "ZBAE001",
+    "name": "Zorbello ZBAE001",
+    "category": "men",
+    "price": 36085,
+    "oldPrice": 51550,
+    "stock": 4,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: механический. Модель ZBAE001 от Zorbello — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m26",
+    "brand": "Zorbello",
+    "model": "ZBAE004",
+    "name": "Zorbello ZBAE004",
+    "category": "men",
+    "price": 39480,
+    "oldPrice": 56400,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: механический. Модель ZBAE004 от Zorbello — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m27",
+    "brand": "Zorbello",
+    "model": "ZBAE005",
+    "name": "Zorbello ZBAE005",
+    "category": "men",
+    "price": 39480,
+    "oldPrice": 56400,
+    "stock": 2,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: механический. Модель ZBAE005 от Zorbello — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m28",
+    "brand": "Zorbello",
+    "model": "ZBAF001",
+    "name": "Zorbello ZBAF001",
+    "category": "men",
+    "price": 39480,
+    "oldPrice": 56400,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: механический. Модель ZBAF001 от Zorbello — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m29",
+    "brand": "Zorbello",
+    "model": "ZBAF003",
+    "name": "Zorbello ZBAF003",
+    "category": "men",
+    "price": 39480,
+    "oldPrice": 56400,
+    "stock": 5,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: механический. Модель ZBAF003 от Zorbello — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m30",
+    "brand": "Zorbello",
+    "model": "ZBAF004",
+    "name": "Zorbello ZBAF004",
+    "category": "men",
+    "price": 42840,
+    "oldPrice": 61200,
+    "stock": 5,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: механический. Модель ZBAF004 от Zorbello — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m31",
+    "brand": "Zorbello",
+    "model": "ZBAF005",
+    "name": "Zorbello ZBAF005",
+    "category": "men",
+    "price": 42840,
+    "oldPrice": 61200,
+    "stock": 2,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: механический. Модель ZBAF005 от Zorbello — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m32",
+    "brand": "Zorbello",
+    "model": "ZBAF006",
+    "name": "Zorbello ZBAF006",
+    "category": "men",
+    "price": 42840,
+    "oldPrice": 61200,
+    "stock": 5,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь",
+    "description": "Сталь, механизм: механический. Модель ZBAF006 от Zorbello — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m33",
+    "brand": "Jiusko",
+    "model": "J0329L-AZ3III",
+    "name": "Jiusko J0329L-AZ3III",
+    "category": "men",
+    "price": 26448,
+    "oldPrice": 33060,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь, сапфировое стекло",
+    "description": "Сталь, сапфировое стекло, механизм: механический. Модель J0329L-AZ3III от Jiusko — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "m34",
+    "brand": "Jiusko",
+    "model": "J0802L-BZ3RHH",
+    "name": "Jiusko J0802L-BZ3RHH",
+    "category": "men",
+    "price": 28435,
+    "oldPrice": 35544,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": "Механический",
+    "material": "Сталь, сапфировое стекло",
+    "description": "Сталь, сапфировое стекло, механизм: механический. Модель J0802L-BZ3RHH от Jiusko — часть коллекции мужских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Механические",
+      "Классические",
+      "Exclusive"
+    ]
+  },
+  {
+    "id": "w24",
+    "brand": "Kimio",
+    "model": "K6223S-GZ1REW",
+    "name": "Kimio K6223S-GZ1REW",
+    "category": "women",
+    "price": 1392,
+    "oldPrice": 3480,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель K6223S-GZ1REW от Kimio — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w25",
+    "brand": "Kimio",
+    "model": "K6295M-XZ1HHH",
+    "name": "Kimio K6295M-XZ1HHH",
+    "category": "women",
+    "price": 1663,
+    "oldPrice": 4158,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель K6295M-XZ1HHH от Kimio — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w26",
+    "brand": "Kimio",
+    "model": "K6299M-XZ1RRE",
+    "name": "Kimio K6299M-XZ1RRE",
+    "category": "women",
+    "price": 1663,
+    "oldPrice": 4158,
+    "stock": 7,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель K6299M-XZ1RRE от Kimio — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w27",
+    "brand": "Kimio",
+    "model": "K6301M-XZ1RRE",
+    "name": "Kimio K6301M-XZ1RRE",
+    "category": "women",
+    "price": 1522,
+    "oldPrice": 3806,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель K6301M-XZ1RRE от Kimio — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w28",
+    "brand": "Kimio",
+    "model": "K6306M-GD1RRH",
+    "name": "Kimio K6306M-GD1RRH",
+    "category": "women",
+    "price": 1699,
+    "oldPrice": 4247,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель K6306M-GD1RRH от Kimio — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w29",
+    "brand": "Kimio",
+    "model": "K6320M-CZ1RRE",
+    "name": "Kimio K6320M-CZ1RRE",
+    "category": "women",
+    "price": 1164,
+    "oldPrice": 2910,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель K6320M-CZ1RRE от Kimio — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w30",
+    "brand": "Kimio",
+    "model": "K6320M-CZ1RRH",
+    "name": "Kimio K6320M-CZ1RRH",
+    "category": "women",
+    "price": 1164,
+    "oldPrice": 2910,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель K6320M-CZ1RRH от Kimio — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w31",
+    "brand": "Kimio",
+    "model": "K6343M-CZ1RRH",
+    "name": "Kimio K6343M-CZ1RRH",
+    "category": "women",
+    "price": 2475,
+    "oldPrice": 6188,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель K6343M-CZ1RRH от Kimio — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w32",
+    "brand": "Panmila",
+    "model": "P0210M-DZ1HZW",
+    "name": "Panmila P0210M-DZ1HZW",
+    "category": "women",
+    "price": 680,
+    "oldPrice": 1700,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель P0210M-DZ1HZW от Panmila — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w33",
+    "brand": "Panmila",
+    "model": "P0241M-DZ1WBB",
+    "name": "Panmila P0241M-DZ1WBB",
+    "category": "women",
+    "price": 938,
+    "oldPrice": 2344,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель P0241M-DZ1WBB от Panmila — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w34",
+    "brand": "Panmila",
+    "model": "P0319M-DD1RVV",
+    "name": "Panmila P0319M-DD1RVV",
+    "category": "women",
+    "price": 2460,
+    "oldPrice": 6149,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель P0319M-DD1RVV от Panmila — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w35",
+    "brand": "Panmila",
+    "model": "P0329M-DZ1REW",
+    "name": "Panmila P0329M-DZ1REW",
+    "category": "women",
+    "price": 1734,
+    "oldPrice": 4335,
+    "stock": 6,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель P0329M-DZ1REW от Panmila — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w36",
+    "brand": "Panmila",
+    "model": "P0358S-DZ1RCW",
+    "name": "Panmila P0358S-DZ1RCW",
+    "category": "women",
+    "price": 736,
+    "oldPrice": 1840,
+    "stock": 2,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель P0358S-DZ1RCW от Panmila — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w37",
+    "brand": "Panmila",
+    "model": "P0389L-NZ1HHH",
+    "name": "Panmila P0389L-NZ1HHH",
+    "category": "women",
+    "price": 867,
+    "oldPrice": 2168,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель P0389L-NZ1HHH от Panmila — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w38",
+    "brand": "Panmila",
+    "model": "P0401M-DD1REW",
+    "name": "Panmila P0401M-DD1REW",
+    "category": "women",
+    "price": 1416,
+    "oldPrice": 3540,
+    "stock": 6,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель P0401M-DD1REW от Panmila — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "w39",
+    "brand": "Panmila",
+    "model": "P0418M-DZ1HHH",
+    "name": "Panmila P0418M-DZ1HHH",
+    "category": "women",
+    "price": 766,
+    "oldPrice": 1916,
+    "stock": 7,
+    "badge": "sale",
+    "mechanism": "Кварцевый",
+    "material": "Сталь",
+    "description": "Сталь, механизм: кварцевый. Модель P0418M-DZ1HHH от Panmila — часть коллекции женских часов CHASTORG с гарантией подлинности.",
+    "styleTags": [
+      "Кварцевые",
+      "Fashion",
+      "Повседневные"
+    ]
+  },
+  {
+    "id": "a10",
+    "brand": "Venezianico",
+    "model": "LS11001",
+    "name": "Venezianico LS11001",
+    "category": "accessories",
+    "price": 3860,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": null,
+    "material": "Ремешок кожаный, 18мм, жёлтый",
+    "description": "Ремешок для часов Venezianico, модель LS11001. Ремешок кожаный, 18мм, жёлтый.",
+    "styleTags": [
+      "Классические"
+    ]
+  },
+  {
+    "id": "a11",
+    "brand": "Venezianico",
+    "model": "LS11003",
+    "name": "Venezianico LS11003",
+    "category": "accessories",
+    "price": 3860,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": null,
+    "material": "Ремешок кожаный, 18мм, розовый",
+    "description": "Ремешок для часов Venezianico, модель LS11003. Ремешок кожаный, 18мм, розовый.",
+    "styleTags": [
+      "Классические"
+    ]
+  },
+  {
+    "id": "a12",
+    "brand": "Venezianico",
+    "model": "LS39001",
+    "name": "Venezianico LS39001",
+    "category": "accessories",
+    "price": 5780,
+    "oldPrice": null,
+    "stock": 1,
+    "badge": null,
+    "mechanism": null,
+    "material": "Ремешок кожаный, 22мм, зелёный",
+    "description": "Ремешок для часов Venezianico, модель LS39001. Ремешок кожаный, 22мм, зелёный.",
+    "styleTags": [
+      "Классические"
+    ]
+  },
+  {
+    "id": "a13",
+    "brand": "Santa Barbara Polo & Racquet Club",
+    "model": "SB1067.C1",
+    "name": "Santa Barbara Polo & Racquet Club SB1067.C1",
+    "category": "accessories",
+    "price": 7006,
+    "oldPrice": 10008,
+    "stock": 3,
+    "badge": "sale",
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Santa Barbara Polo & Racquet Club, модель SB1067.C1. Очки солнцезащитные.",
+    "styleTags": [
+      "Fashion",
+      "Casual"
+    ]
+  },
+  {
+    "id": "a14",
+    "brand": "Santa Barbara Polo & Racquet Club",
+    "model": "SB1093.C3",
+    "name": "Santa Barbara Polo & Racquet Club SB1093.C3",
+    "category": "accessories",
+    "price": 4922,
+    "oldPrice": 7032,
+    "stock": 2,
+    "badge": "sale",
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Santa Barbara Polo & Racquet Club, модель SB1093.C3. Очки солнцезащитные.",
+    "styleTags": [
+      "Fashion",
+      "Casual"
+    ]
+  },
+  {
+    "id": "a15",
+    "brand": "Santa Barbara Polo & Racquet Club",
+    "model": "SB1094.C1",
+    "name": "Santa Barbara Polo & Racquet Club SB1094.C1",
+    "category": "accessories",
+    "price": 6367,
+    "oldPrice": 9096,
+    "stock": 6,
+    "badge": "sale",
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Santa Barbara Polo & Racquet Club, модель SB1094.C1. Очки солнцезащитные.",
+    "styleTags": [
+      "Fashion",
+      "Casual"
+    ]
+  },
+  {
+    "id": "a16",
+    "brand": "Santa Barbara Polo & Racquet Club",
+    "model": "SB1094.C2",
+    "name": "Santa Barbara Polo & Racquet Club SB1094.C2",
+    "category": "accessories",
+    "price": 6367,
+    "oldPrice": 9096,
+    "stock": 5,
+    "badge": "sale",
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Santa Barbara Polo & Racquet Club, модель SB1094.C2. Очки солнцезащитные.",
+    "styleTags": [
+      "Fashion",
+      "Casual"
+    ]
+  },
+  {
+    "id": "a17",
+    "brand": "Santa Barbara Polo & Racquet Club",
+    "model": "SB1094.C3",
+    "name": "Santa Barbara Polo & Racquet Club SB1094.C3",
+    "category": "accessories",
+    "price": 6367,
+    "oldPrice": 9096,
+    "stock": 1,
+    "badge": "sale",
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Santa Barbara Polo & Racquet Club, модель SB1094.C3. Очки солнцезащитные.",
+    "styleTags": [
+      "Fashion",
+      "Casual"
+    ]
+  },
+  {
+    "id": "a18",
+    "brand": "Santa Barbara Polo & Racquet Club",
+    "model": "SB1095.C2",
+    "name": "Santa Barbara Polo & Racquet Club SB1095.C2",
+    "category": "accessories",
+    "price": 8316,
+    "oldPrice": null,
+    "stock": 4,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Santa Barbara Polo & Racquet Club, модель SB1095.C2. Очки солнцезащитные.",
+    "styleTags": [
+      "Fashion",
+      "Casual"
+    ]
+  },
+  {
+    "id": "a19",
+    "brand": "Santa Barbara Polo & Racquet Club",
+    "model": "SB1095.C3",
+    "name": "Santa Barbara Polo & Racquet Club SB1095.C3",
+    "category": "accessories",
+    "price": 8316,
+    "oldPrice": null,
+    "stock": 2,
+    "badge": null,
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Santa Barbara Polo & Racquet Club, модель SB1095.C3. Очки солнцезащитные.",
+    "styleTags": [
+      "Fashion",
+      "Casual"
+    ]
+  },
+  {
+    "id": "a20",
+    "brand": "Santa Barbara Polo & Racquet Club",
+    "model": "SB1096.C2",
+    "name": "Santa Barbara Polo & Racquet Club SB1096.C2",
+    "category": "accessories",
+    "price": 5872,
+    "oldPrice": 8388,
+    "stock": 2,
+    "badge": "sale",
+    "mechanism": null,
+    "material": "Очки солнцезащитные",
+    "description": "Солнцезащитные очки Santa Barbara Polo & Racquet Club, модель SB1096.C2. Очки солнцезащитные.",
+    "styleTags": [
+      "Fashion",
+      "Casual"
+    ]
+  }
+]
