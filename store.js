@@ -267,7 +267,7 @@ function productCardHTML(p) {
         '<div class="product-price"><span class="price-now">' + formatPrice(p.price) + '</span>' +
         (p.oldPrice ? '<span class="price-old">' + formatPrice(p.oldPrice) + '</span>' : '') + '</div>' +
         (p.stock <= 2 ? '<div style="font-size:11.5px;color:#c0392b;margin-top:4px">Осталось ' + p.stock + ' шт.</div>' : '') +
-        '<button class="btn btn-navy btn-sm btn-block" style="margin-top:10px" data-add="' + p.id + '">В корзину</button>' +
+        '<div style="margin-top:auto;padding-top:10px"><button class="btn btn-navy btn-sm btn-block" data-add="' + p.id + '">В корзину</button></div>' +
       '</div>' +
     '</div>'
   );
