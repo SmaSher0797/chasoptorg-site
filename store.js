@@ -86,6 +86,10 @@ function parseColor(p) {
 
 function productIllustration(p, size) {
   size = size || 96;
+  if (p.image) {
+    var fallbackSrc = 'data:image/svg+xml,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="21" fill="#c9ccd3"/><circle cx="32" cy="32" r="16.5" fill="#f4f3ef"/></svg>');
+    return '<img src="' + p.image + '" alt="' + p.name + '" loading="lazy" style="width:' + size + 'px;height:' + size + 'px;object-fit:contain" onerror="this.onerror=null;this.src=' + JSON.stringify(fallbackSrc) + ';">';
+  }
   var accent = parseColor(p);
   var body = '';
   if (p.category === 'accessories') {
@@ -154,6 +158,7 @@ function productCardHTML(p) {
       '<a href="product-' + p.id + '.html" class="product-thumb">' + badge +
         '<div class="wish-btn' + (wished ? ' active' : '') + '" data-wish="' + p.id + '"><svg fill="' + (wished ? '#c69a4e' : 'none') + '" viewBox="0 0 24 24" stroke-width="2" stroke="' + (wished ? '#c69a4e' : '#12213f') + '"><path d="M20.8 4.6a5.5 5.5 0 00-7.8 0L12 5.6l-1-1a5.5 5.5 0 10-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 000-7.8z"/></svg></div>' +
         productIllustration(p, 78) +
+        '<button type="button" class="qv-btn" data-quickview="' + p.id + '" aria-label="Быстрый просмотр"><svg fill="none" viewBox="0 0 24 24" stroke-width="2"><path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7z"/><circle cx="12" cy="12" r="3"/></svg>Быстрый просмотр</button>' +
       '</a>' +
       '<div class="product-info">' +
         '<div class="product-brand">' + p.brand + '</div>' +
@@ -165,6 +170,76 @@ function productCardHTML(p) {
       '</div>' +
     '</div>'
   );
+}
+
+// --- Быстрый просмотр товара (модальное окно) ---
+var qvOverlay = null;
+function buildQuickViewModal() {
+  if (qvOverlay) return qvOverlay;
+  qvOverlay = document.createElement('div');
+  qvOverlay.className = 'qv-overlay';
+  qvOverlay.innerHTML = '<div class="qv-modal" role="dialog" aria-modal="true"><button type="button" class="qv-close" aria-label="Закрыть">&times;</button><div class="qv-body"></div></div>';
+  document.body.appendChild(qvOverlay);
+  qvOverlay.addEventListener('click', function (e) {
+    if (e.target === qvOverlay) closeQuickView();
+  });
+  qvOverlay.querySelector('.qv-close').addEventListener('click', closeQuickView);
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeQuickView();
+  });
+  return qvOverlay;
+}
+function closeQuickView() {
+  if (qvOverlay) qvOverlay.classList.remove('visible');
+  document.body.classList.remove('qv-lock');
+}
+function openQuickView(id) {
+  var p = PRODUCTS.find(function (x) { return x.id === id; });
+  if (!p) return;
+  var overlay = buildQuickViewModal();
+  var wished = isWished(p.id);
+  var pct = p.oldPrice ? Math.round((1 - p.price / p.oldPrice) * 100) : 0;
+  overlay.querySelector('.qv-body').innerHTML =
+    '<div class="qv-gallery">' + productIllustration(p, 200) + '</div>' +
+    '<div class="qv-info">' +
+      '<div class="product-brand">' + p.brand + '</div>' +
+      '<h3 class="qv-title">' + p.name + '</h3>' +
+      '<div class="product-price" style="margin:10px 0"><span class="price-now">' + formatPrice(p.price) + '</span>' +
+      (p.oldPrice ? '<span class="price-old">' + formatPrice(p.oldPrice) + '</span><span class="tag sale" style="margin-left:8px">-' + pct + '%</span>' : '') + '</div>' +
+      '<table class="qv-specs">' +
+        (p.mechanism ? '<tr><td>Механизм</td><td>' + p.mechanism + '</td></tr>' : '') +
+        (p.material ? '<tr><td>Материал</td><td>' + p.material + '</td></tr>' : '') +
+        '<tr><td>Артикул</td><td>' + p.model + '</td></tr>' +
+        '<tr><td>Наличие</td><td>' + (p.stock > 0 ? (p.stock <= 2 ? 'Осталось ' + p.stock + ' шт.' : 'В наличии') : 'Под заказ') + '</td></tr>' +
+      '</table>' +
+      '<div class="qv-actions">' +
+        '<div class="qty-stepper" data-qv-stepper><button data-step="down">–</button><input type="text" value="1" data-qv-qty><button data-step="up">+</button></div>' +
+        '<button class="btn btn-gold" data-qv-add="' + p.id + '">В корзину</button>' +
+        '<div class="wish-btn' + (wished ? ' active' : '') + '" data-wish="' + p.id + '" style="position:static"><svg fill="' + (wished ? '#c69a4e' : 'none') + '" viewBox="0 0 24 24" stroke-width="2" stroke="' + (wished ? '#c69a4e' : '#12213f') + '"><path d="M20.8 4.6a5.5 5.5 0 00-7.8 0L12 5.6l-1-1a5.5 5.5 0 10-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 000-7.8z"/></svg></div>' +
+      '</div>' +
+      '<a href="product-' + p.id + '.html" class="qv-full-link">Открыть страницу товара →</a>' +
+    '</div>';
+
+  var stepper = overlay.querySelector('[data-qv-stepper]');
+  stepper.querySelectorAll('button').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var input = stepper.querySelector('[data-qv-qty]');
+      var val = parseInt(input.value || '1', 10);
+      val = btn.dataset.step === 'up' ? val + 1 : Math.max(1, val - 1);
+      input.value = val;
+    });
+  });
+  overlay.querySelector('[data-qv-add]').addEventListener('click', function () {
+    var qty = parseInt(overlay.querySelector('[data-qv-qty]').value, 10) || 1;
+    addToCart(p.id, qty);
+    var el = overlay.querySelector('[data-qv-add]');
+    var old = el.textContent;
+    el.textContent = 'Добавлено ✓';
+    setTimeout(function () { el.textContent = old; }, 1200);
+  });
+
+  overlay.classList.add('visible');
+  document.body.classList.add('qv-lock');
 }
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -189,6 +264,12 @@ document.addEventListener('DOMContentLoaded', function () {
         svg.setAttribute('fill', active ? '#c69a4e' : 'none');
         svg.setAttribute('stroke', active ? '#c69a4e' : '#12213f');
       }
+    }
+    var qvBtn = e.target.closest('[data-quickview]');
+    if (qvBtn) {
+      e.preventDefault();
+      e.stopPropagation();
+      openQuickView(qvBtn.dataset.quickview);
     }
   });
 });
