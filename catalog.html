@@ -269,13 +269,26 @@
     var pag = document.getElementById('pagination');
     pag.innerHTML = '';
     if (totalPages > 1) {
-      for (var i = 1; i <= totalPages; i++) {
+      var WINDOW = 5;
+      var winStart = Math.floor((state.page - 1) / (WINDOW - 1)) * (WINDOW - 1) + 1;
+      var winEnd = Math.min(winStart + WINDOW - 1, totalPages);
+      function goTo(n) { state.page = n; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+      function addBtn(label, page, cls) {
         var a = document.createElement('a');
-        a.href = '#'; a.textContent = i;
-        if (i === state.page) a.className = 'active';
-        (function (n) { a.addEventListener('click', function (e) { e.preventDefault(); state.page = n; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); }); })(i);
+        a.href = '#'; a.textContent = label;
+        if (cls) a.className = cls;
+        if (cls === 'disabled') {
+          a.addEventListener('click', function (e) { e.preventDefault(); });
+        } else {
+          (function (n) { a.addEventListener('click', function (e) { e.preventDefault(); goTo(n); }); })(page);
+        }
         pag.appendChild(a);
       }
+      addBtn('‹', state.page - 1, 'nav' + (state.page === 1 ? ' disabled' : ''));
+      for (var i = winStart; i <= winEnd; i++) {
+        addBtn(i, i, i === state.page ? 'active' : '');
+      }
+      addBtn('›', state.page + 1, 'nav' + (state.page === totalPages ? ' disabled' : ''));
     }
   }
   function pluralize(n) {
