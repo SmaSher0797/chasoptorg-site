@@ -39,6 +39,29 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // Мобильная панель фильтров каталога
+  var filters = document.querySelector('.filters');
+  var filtersToggle = document.querySelector('.filters-toggle');
+  var filtersOverlay = document.querySelector('.filters-overlay');
+  var filtersClose = document.querySelector('.filters-close');
+  function openFilters() {
+    if (filters) filters.classList.add('filters-open');
+    if (filtersOverlay) filtersOverlay.classList.add('visible');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeFilters() {
+    if (filters) filters.classList.remove('filters-open');
+    if (filtersOverlay) filtersOverlay.classList.remove('visible');
+    document.body.style.overflow = '';
+  }
+  if (filtersToggle) filtersToggle.addEventListener('click', openFilters);
+  if (filtersClose) filtersClose.addEventListener('click', closeFilters);
+  if (filtersOverlay) filtersOverlay.addEventListener('click', closeFilters);
+  if (filters) {
+    var resetBtn = filters.querySelector('#resetFilters');
+    if (resetBtn) resetBtn.addEventListener('click', closeFilters);
+  }
+
   // Подсветка активного пункта меню (по текущей странице + категории в URL)
   var navLinks = document.querySelectorAll('.main-nav a');
   if (navLinks.length) {

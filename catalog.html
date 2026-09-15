@@ -66,6 +66,7 @@
 <div class="section container">
   <div class="catalog-layout">
     <aside class="filters">
+      <button class="filters-close" type="button"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18"/></svg> Закрыть</button>
       <div class="filter-block"><h5>Категория</h5>
         <label class="filter-row"><input type="checkbox" data-gender value="men"> Мужские <span class="cnt" data-count-gender="men" style="margin-left:auto;color:var(--gray-light)"></span></label>
         <label class="filter-row"><input type="checkbox" data-gender value="women"> Женские <span class="cnt" data-count-gender="women" style="margin-left:auto;color:var(--gray-light)"></span></label>
@@ -94,9 +95,11 @@
       </div>
       <button class="btn btn-navy btn-block btn-sm" id="resetFilters">Сбросить фильтры</button>
     </aside>
+    <div class="filters-overlay"></div>
 
     <div>
       <div class="catalog-toolbar">
+        <button type="button" class="btn btn-navy btn-sm filters-toggle"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M7 12h10M10 18h4"/></svg> Фильтры</button>
         <span style="font-size:13.5px;color:var(--gray)" id="resultCount">Найдено 0 товаров</span>
         <select id="sortSelect">
           <option value="popular">Сортировка: по умолчанию</option>
